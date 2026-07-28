@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079951026598379520"
+      ]
+    },
+    "author_id": "1733760966666407936",
+    "conversation_id": "2079951043912491506",
+    "created_at": "2026-07-22T15:25:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T16:25:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079951043912491506"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 58,
+          "start": 55,
+          "tag": "女装"
+        },
+        {
+          "end": 63,
+          "start": 60,
+          "tag": "药娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fYa1UgHhX3",
+          "end": 87,
+          "expanded_url": "https://x.com/ivanov80_i96326/status/2079951043912491506/photo/1",
+          "media_key": "3_2079951026598379520",
+          "start": 64,
+          "url": "https://t.co/fYa1UgHhX3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079951043912491506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "换上心仪的小裙子 在深夜的时候拍下自拍，没有繁杂的琐事打扰 安安静静享受只属于自己的时间--此文案由豆包配的 #女装  #药娘 https://t.co/fYa1UgHhX3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2079951026598379520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN14cEqbAAAJnWh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079951026598379520"
+          ]
+        },
+        "author_id": "1733760966666407936",
+        "conversation_id": "2079951043912491506",
+        "created_at": "2026-07-22T15:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T16:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079951043912491506"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "女装"
+            },
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "药娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fYa1UgHhX3",
+              "end": 87,
+              "expanded_url": "https://x.com/ivanov80_i96326/status/2079951043912491506/photo/1",
+              "media_key": "3_2079951026598379520",
+              "start": 64,
+              "url": "https://t.co/fYa1UgHhX3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079951043912491506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "换上心仪的小裙子 在深夜的时候拍下自拍，没有繁杂的琐事打扰 安安静静享受只属于自己的时间--此文案由豆包配的 #女装  #药娘 https://t.co/fYa1UgHhX3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "172:-(49kg 不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "location": "香港",
+        "name": "川長乙女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 500,
+          "like_count": 326,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 93
+        },
+        "url": "",
+        "username": "ivanov80_i96326",
+        "verified": false
+      }
+    ]
+  }
+}

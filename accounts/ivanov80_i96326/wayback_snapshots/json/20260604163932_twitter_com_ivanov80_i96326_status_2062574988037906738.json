@@ -1,0 +1,437 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2062514245095522305"
+      ],
+      "media_source_tweet_id": [
+        "2062514337735180676"
+      ]
+    },
+    "author_id": "1733760966666407936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2062574988037906738",
+    "created_at": "2026-06-04T16:39:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T17:39:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062574988037906738"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 53,
+          "start": 50,
+          "tag": "男娘"
+        },
+        {
+          "end": 57,
+          "start": 54,
+          "tag": "伪娘"
+        },
+        {
+          "end": 65,
+          "start": 58,
+          "tag": "femboy"
+        },
+        {
+          "end": 74,
+          "start": 66,
+          "tag": "cosplay"
+        },
+        {
+          "end": 82,
+          "start": 75,
+          "tag": "chudai"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1922938400707051520",
+          "start": 3,
+          "username": "herct000"
+        },
+        {
+          "end": 34,
+          "id": "1914627622975488000",
+          "start": 26,
+          "username": "luru520"
+        },
+        {
+          "end": 48,
+          "id": "2002299470147694597",
+          "start": 36,
+          "username": "mojikku9981"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5x8l2nrVD5",
+          "end": 106,
+          "expanded_url": "https://x.com/herct000/status/2062514337735180676/video/1",
+          "media_key": "7_2062514245095522305",
+          "start": 83,
+          "url": "https://t.co/5x8l2nrVD5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062574988037906738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 127
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062514337735180676",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @herct000: 补档\n三人行b有我湿\n左@luru520\n右@mojikku9981\n\n#男娘 #伪娘 #femboy #cosplay #chudai https://t.co/5x8l2nrVD5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2062574988037906738].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2062574988037906738",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2062574988037906738"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 67733,
+        "height": 720,
+        "media_key": "7_2062514245095522305",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2062514245095522305/pu/img/tO0QNigVFJiDHT0V.jpg",
+        "public_metrics": {
+          "view_count": 15327
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062514245095522305/pu/vid/avc1/360x270/ZiTxoYq1kjU2HlOk.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062514245095522305/pu/vid/avc1/480x360/5nLCDUdPKehuo_4T.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062514245095522305/pu/vid/avc1/960x720/apKBjt5oIxEs5_xn.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2062514245095522305/pu/pl/0SnP2uuLCdz7UC1P.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2062514245095522305"
+          ]
+        },
+        "author_id": "1922938400707051520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2062514337735180676",
+        "created_at": "2026-06-04T12:38:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:38:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062514337735180676"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "男娘"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "伪娘"
+            },
+            {
+              "end": 51,
+              "start": 44,
+              "tag": "femboy"
+            },
+            {
+              "end": 60,
+              "start": 52,
+              "tag": "cosplay"
+            },
+            {
+              "end": 68,
+              "start": 61,
+              "tag": "chudai"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1914627622975488000",
+              "start": 12,
+              "username": "luru520"
+            },
+            {
+              "end": 34,
+              "id": "2002299470147694597",
+              "start": 22,
+              "username": "mojikku9981"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5x8l2nrVD5",
+              "end": 92,
+              "expanded_url": "https://x.com/herct000/status/2062514337735180676/video/1",
+              "media_key": "7_2062514245095522305",
+              "start": 69,
+              "url": "https://t.co/5x8l2nrVD5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062514337735180676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 711,
+          "impression_count": 22763,
+          "like_count": 1634,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 127
+        },
+        "reply_settings": "everyone",
+        "text": "补档\n三人行b有我湿\n左@luru520\n右@mojikku9981\n\n#男娘 #伪娘 #femboy #cosplay #chudai https://t.co/5x8l2nrVD5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "172:-(49kg 黑皮&不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "location": "香港",
+        "name": "川長乙女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 358,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 45
+        },
+        "username": "ivanov80_i96326",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-15T08:53:51.000Z",
+        "description": "玩cos的丨遵守X规则Comply with X rules丨♂🔞NSFW丨们五十丨请不要把我的内容转载到墙内😇丨未经授权搬运、冒充我和盗图的人替我挡灾",
+        "id": "1922938400707051520",
+        "name": "黑卡蒂蒂D",
+        "pinned_tweet_id": "2009829754556563757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975857180961280000/6vf5Btc__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57040,
+          "following_count": 676,
+          "like_count": 808,
+          "listed_count": 287,
+          "media_count": 48,
+          "tweet_count": 1120
+        },
+        "username": "herct000",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T10:30:16.000Z",
+        "description": "男孩子，喜欢cosplay，这是我欲望的一面\n                        迷你版@luru1314\n                                                             暂无tg，唯一平台X，请勿上当受骗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "luru1314"
+              }
+            ]
+          }
+        },
+        "id": "1914627622975488000",
+        "location": "🚪50",
+        "name": "魔法少女露露白",
+        "pinned_tweet_id": "2061825348292260141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967173920324521984/fw4FyJLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49933,
+          "following_count": 241,
+          "like_count": 486,
+          "listed_count": 207,
+          "media_count": 81,
+          "tweet_count": 659
+        },
+        "username": "luru520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-20T08:46:20.000Z",
+        "description": "遵守X规则Comply with X rules \n男的",
+        "id": "2002299470147694597",
+        "location": "安道尔",
+        "name": "沫沫_momojikku",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002303360746274816/R7Dr9UzK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3993,
+          "following_count": 34,
+          "like_count": 2,
+          "listed_count": 32,
+          "media_count": 23,
+          "tweet_count": 55
+        },
+        "username": "mojikku9981",
+        "verified": false
+      }
+    ]
+  }
+}

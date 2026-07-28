@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071141795115982848"
+      ],
+      "media_source_tweet_id": [
+        "2071141805907902804"
+      ]
+    },
+    "author_id": "1733760966666407936",
+    "conversation_id": "2071286201995469300",
+    "created_at": "2026-06-28T17:34:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T18:34:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071286201995469300"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 20,
+          "tag": "男娘"
+        },
+        {
+          "end": 31,
+          "start": 24,
+          "tag": "femboy"
+        },
+        {
+          "end": 35,
+          "start": 32,
+          "tag": "伪娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "770867176655904768",
+          "start": 3,
+          "username": "1004foxmao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1EMWtgREVB",
+          "end": 59,
+          "expanded_url": "https://x.com/1004foxmao/status/2071141805907902804/photo/1",
+          "media_key": "3_2071141795115982848",
+          "start": 36,
+          "url": "https://t.co/1EMWtgREVB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071286201995469300",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071141805907902804",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1004foxmao: 好女孩\n#男娘 #femboy #伪娘 https://t.co/1EMWtgREVB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071141795115982848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4sfUFaYAAByRS.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071141795115982848"
+          ],
+          "media_source_tweet_id": [
+            "2071141805907902804"
+          ]
+        },
+        "author_id": "1733760966666407936",
+        "conversation_id": "2071286201995469300",
+        "created_at": "2026-06-28T17:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T18:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071286201995469300"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "男娘"
+            },
+            {
+              "end": 31,
+              "start": 24,
+              "tag": "femboy"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "伪娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "770867176655904768",
+              "start": 3,
+              "username": "1004foxmao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1EMWtgREVB",
+              "end": 59,
+              "expanded_url": "https://x.com/1004foxmao/status/2071141805907902804/photo/1",
+              "media_key": "3_2071141795115982848",
+              "start": 36,
+              "url": "https://t.co/1EMWtgREVB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071286201995469300",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071141805907902804",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1004foxmao: 好女孩\n#男娘 #femboy #伪娘 https://t.co/1EMWtgREVB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071141795115982848"
+          ]
+        },
+        "author_id": "770867176655904768",
+        "conversation_id": "2071141805907902804",
+        "created_at": "2026-06-28T08:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T09:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071141805907902804"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "男娘"
+            },
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "femboy"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "伪娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1EMWtgREVB",
+              "end": 43,
+              "expanded_url": "https://x.com/1004foxmao/status/2071141805907902804/photo/1",
+              "media_key": "3_2071141795115982848",
+              "start": 20,
+              "url": "https://t.co/1EMWtgREVB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071141805907902804",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 3683,
+          "like_count": 186,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好女孩\n#男娘 #femboy #伪娘 https://t.co/1EMWtgREVB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "172:-(49kg 不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "location": "香港",
+        "name": "川長乙女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 447,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "ivanov80_i96326",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-31T06:13:51.000Z",
+        "description": "23 在读研究生 欢迎投喂～梦想是成为受人怜爱的小男娘/女装cd/不吃药🥺\n 175cm/53kg  23yo femboy but no ts",
+        "id": "770867176655904768",
+        "location": "浙江",
+        "name": "邻居家的小豆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991877914753974272/ZLUseoap_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6379,
+          "following_count": 74,
+          "like_count": 164,
+          "listed_count": 30,
+          "media_count": 148,
+          "tweet_count": 237
+        },
+        "url": "",
+        "username": "1004foxmao",
+        "verified": false
+      }
+    ]
+  }
+}

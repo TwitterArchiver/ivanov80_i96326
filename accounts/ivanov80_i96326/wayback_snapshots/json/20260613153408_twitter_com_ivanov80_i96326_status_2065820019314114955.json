@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065820006471090176"
+      ]
+    },
+    "author_id": "1733760966666407936",
+    "conversation_id": "2065820019314114955",
+    "created_at": "2026-06-13T15:34:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T16:34:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065820019314114955"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 38,
+          "tag": "开发"
+        },
+        {
+          "end": 45,
+          "start": 42,
+          "tag": "屁穴"
+        },
+        {
+          "end": 49,
+          "start": 46,
+          "tag": "伪娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7WBlRBAT09",
+          "end": 73,
+          "expanded_url": "https://x.com/ivanov80_i96326/status/2065820019314114955/photo/1",
+          "media_key": "3_2065820006471090176",
+          "start": 50,
+          "url": "https://t.co/7WBlRBAT09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065820019314114955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "决定了还是开发一下自己吧 嗯但是哪个好用适合新手呢？想一边喷奶一边玩玩具 😌#开发 #屁穴 #伪娘 https://t.co/7WBlRBAT09"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065820006471090176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKtEWceawAAruE1.jpg",
+        "width": 1120
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065820006471090176"
+          ]
+        },
+        "author_id": "1733760966666407936",
+        "conversation_id": "2065820019314114955",
+        "created_at": "2026-06-13T15:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065820019314114955"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "开发"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "屁穴"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "伪娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7WBlRBAT09",
+              "end": 73,
+              "expanded_url": "https://x.com/ivanov80_i96326/status/2065820019314114955/photo/1",
+              "media_key": "3_2065820006471090176",
+              "start": 50,
+              "url": "https://t.co/7WBlRBAT09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065820019314114955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "决定了还是开发一下自己吧 嗯但是哪个好用适合新手呢？想一边喷奶一边玩玩具 😌#开发 #屁穴 #伪娘 https://t.co/7WBlRBAT09"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "172:-(49kg 黑皮&不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "location": "香港",
+        "name": "川長乙女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 384,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 53
+        },
+        "username": "ivanov80_i96326",
+        "verified": false
+      }
+    ]
+  }
+}

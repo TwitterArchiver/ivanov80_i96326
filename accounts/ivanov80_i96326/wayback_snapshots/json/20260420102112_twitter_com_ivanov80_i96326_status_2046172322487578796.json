@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733760966666407936",
+    "conversation_id": "2045780192019538431",
+    "created_at": "2026-04-20T10:21:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T11:21:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046172322487578796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1073978902228361217",
+          "start": 0,
+          "username": "yuzijiangxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046172322487578796",
+    "in_reply_to_user_id": "1073978902228361217",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045780192019538431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuzijiangxi 兄弟你太美了……"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9365,
+        "height": 1280,
+        "media_key": "7_2045779988063133697",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2045779988063133697/pu/img/vDwnjVsYbPnwVOY1.jpg",
+        "public_metrics": {
+          "view_count": 71
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045779988063133697/pu/vid/avc1/320x568/EhmQoxK7cRlX0TZv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045779988063133697/pu/vid/avc1/480x852/sm6plBq63SfnSAUc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045779988063133697/pu/vid/avc1/720x1280/_wJeTrM2UkrFkG8H.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2045779988063133697/pu/pl/Xu79G1VVpDs8BLw0.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733760966666407936",
+        "conversation_id": "2045780192019538431",
+        "created_at": "2026-04-20T10:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T11:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046172322487578796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1073978902228361217",
+              "start": 0,
+              "username": "yuzijiangxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046172322487578796",
+        "in_reply_to_user_id": "1073978902228361217",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045780192019538431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuzijiangxi 兄弟你太美了……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2045779988063133697"
+          ]
+        },
+        "author_id": "1073978902228361217",
+        "conversation_id": "2045780192019538431",
+        "created_at": "2026-04-19T08:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T09:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045780192019538431"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "男娘"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "药娘"
+            },
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "男の娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U6B9bxR8C9",
+              "end": 44,
+              "expanded_url": "https://x.com/yuzijiangxi/status/2045780192019538431/video/1",
+              "media_key": "7_2045779988063133697",
+              "start": 21,
+              "url": "https://t.co/U6B9bxR8C9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045780192019538431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4066,
+          "like_count": 137,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟，出来拍照 #男娘 #药娘 #男の娘 https://t.co/U6B9bxR8C9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "172:-(49kg 黑皮&不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "location": "香港",
+        "name": "川長乙女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 12,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "username": "ivanov80_i96326",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-15T16:31:38.000Z",
+        "description": "永远期待结束异地\n喜欢摄影和画画～",
+        "id": "1073978902228361217",
+        "location": "安徽",
+        "name": "有糖可乐",
+        "pinned_tweet_id": "1987535857470050709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039873039857537024/zQ9Gmsli_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7885,
+          "following_count": 4956,
+          "like_count": 82947,
+          "listed_count": 59,
+          "media_count": 845,
+          "tweet_count": 8037
+        },
+        "username": "yuzijiangxi",
+        "verified": false
+      }
+    ]
+  }
+}

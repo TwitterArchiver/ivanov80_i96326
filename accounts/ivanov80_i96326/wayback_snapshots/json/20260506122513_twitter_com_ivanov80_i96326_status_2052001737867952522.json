@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052001730569928704"
+      ]
+    },
+    "author_id": "1733760966666407936",
+    "conversation_id": "2052001737867952522",
+    "created_at": "2026-05-06T12:25:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T13:25:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052001737867952522"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 21,
+          "tag": "药娘"
+        },
+        {
+          "end": 27,
+          "start": 25,
+          "tag": "胸"
+        },
+        {
+          "end": 32,
+          "start": 28,
+          "tag": "大奶子"
+        },
+        {
+          "end": 39,
+          "start": 34,
+          "tag": "怎么丰胸"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rCA9NjAqas",
+          "end": 63,
+          "expanded_url": "https://x.com/ivanov80_i96326/status/2052001737867952522/photo/1",
+          "media_key": "3_2052001730569928704",
+          "start": 40,
+          "url": "https://t.co/rCA9NjAqas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052001737867952522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在的小药娘都是什么段位啊\n我是平胸🥲 \n#药娘 #胸 #大奶子  #怎么丰胸 https://t.co/rCA9NjAqas"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1556,
+        "media_key": "3_2052001730569928704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHoss7UbgAAjGzi.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052001730569928704"
+          ]
+        },
+        "author_id": "1733760966666407936",
+        "conversation_id": "2052001737867952522",
+        "created_at": "2026-05-06T12:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052001737867952522"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "药娘"
+            },
+            {
+              "end": 27,
+              "start": 25,
+              "tag": "胸"
+            },
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "大奶子"
+            },
+            {
+              "end": 39,
+              "start": 34,
+              "tag": "怎么丰胸"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rCA9NjAqas",
+              "end": 63,
+              "expanded_url": "https://x.com/ivanov80_i96326/status/2052001737867952522/photo/1",
+              "media_key": "3_2052001730569928704",
+              "start": 40,
+              "url": "https://t.co/rCA9NjAqas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052001737867952522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在的小药娘都是什么段位啊\n我是平胸🥲 \n#药娘 #胸 #大奶子  #怎么丰胸 https://t.co/rCA9NjAqas"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "172:-(49kg 黑皮&不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "location": "香港",
+        "name": "川長乙女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 179,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 17
+        },
+        "username": "ivanov80_i96326",
+        "verified": false
+      }
+    ]
+  }
+}

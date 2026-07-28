@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055519830997127168"
+      ],
+      "media_source_tweet_id": [
+        "2055519860185309420"
+      ]
+    },
+    "author_id": "1733760966666407936",
+    "conversation_id": "2056073632510890366",
+    "created_at": "2026-05-17T18:05:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T19:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056073632510890366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1512976991976402949",
+          "start": 3,
+          "username": "bghtnya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AtPo4x2UyS",
+          "end": 45,
+          "expanded_url": "https://x.com/bghtnya/status/2055519860185309420/photo/1",
+          "media_key": "3_2055519830997127168",
+          "start": 22,
+          "url": "https://t.co/AtPo4x2UyS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056073632510890366",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055519860185309420",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bghtnya: 我要吃 雌二醇！ https://t.co/AtPo4x2UyS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1241,
+        "media_key": "3_2055519830997127168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIasZUta0AAEib4.jpg",
+        "width": 1268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055519830997127168"
+          ],
+          "media_source_tweet_id": [
+            "2055519860185309420"
+          ]
+        },
+        "author_id": "1733760966666407936",
+        "conversation_id": "2056073632510890366",
+        "created_at": "2026-05-17T18:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T19:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056073632510890366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1512976991976402949",
+              "start": 3,
+              "username": "bghtnya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AtPo4x2UyS",
+              "end": 45,
+              "expanded_url": "https://x.com/bghtnya/status/2055519860185309420/photo/1",
+              "media_key": "3_2055519830997127168",
+              "start": 22,
+              "url": "https://t.co/AtPo4x2UyS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056073632510890366",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055519860185309420",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bghtnya: 我要吃 雌二醇！ https://t.co/AtPo4x2UyS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055519830997127168"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "2055519860185309420",
+        "created_at": "2026-05-16T05:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T06:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055519860185309420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AtPo4x2UyS",
+              "end": 32,
+              "expanded_url": "https://x.com/bghtnya/status/2055519860185309420/photo/1",
+              "media_key": "3_2055519830997127168",
+              "start": 9,
+              "url": "https://t.co/AtPo4x2UyS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055519860185309420",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 11611,
+          "like_count": 211,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "我要吃 雌二醇！ https://t.co/AtPo4x2UyS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "172:-(49kg 黑皮&不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "location": "香港",
+        "name": "川長乙女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 215,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 25
+        },
+        "username": "ivanov80_i96326",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8n1bY"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2053034864085971095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9382,
+          "following_count": 2295,
+          "like_count": 178222,
+          "listed_count": 21,
+          "media_count": 3914,
+          "tweet_count": 47890
+        },
+        "url": "https://t.co/o4J1P8n1bY",
+        "username": "bghtnya",
+        "verified": true
+      }
+    ]
+  }
+}

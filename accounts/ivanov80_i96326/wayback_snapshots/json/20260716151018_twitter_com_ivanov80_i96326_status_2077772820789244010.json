@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733760966666407936",
+    "conversation_id": "2077772820789244010",
+    "created_at": "2026-07-16T15:10:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T16:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077772820789244010"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 101,
+          "start": 98,
+          "tag": "雲林"
+        },
+        {
+          "end": 105,
+          "start": 102,
+          "tag": "斗六"
+        },
+        {
+          "end": 109,
+          "start": 106,
+          "tag": "虎尾"
+        },
+        {
+          "end": 114,
+          "start": 111,
+          "tag": "中部"
+        },
+        {
+          "end": 118,
+          "start": 115,
+          "tag": "男娘"
+        },
+        {
+          "end": 122,
+          "start": 119,
+          "tag": "偽娘"
+        },
+        {
+          "end": 126,
+          "start": 123,
+          "tag": "三性"
+        },
+        {
+          "end": 132,
+          "start": 128,
+          "tag": "女装子"
+        },
+        {
+          "end": 137,
+          "start": 133,
+          "tag": "男の娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1541120515594539014",
+          "start": 3,
+          "username": "tutu0422"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077772820789244010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077400665996013685",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tutu0422: 發現我有好多庫存沒發耶～🤪🤪\n齁呦～每次在上面搖都會莫名比肉棒頂到騷點～仙女棒就會翹起來一直晃🤤🤤\n騷兔兔最喜歡被男人侵犯騷穴了😍😍\n有哥哥要讓我補多一點庫存嗎🥵🥵\n\n#雲林 ＃斗六 #虎尾  #中部 #男娘 ＃偽娘 ＃三性  ＃女装子 #男の娘…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23833,
+        "height": 1920,
+        "media_key": "13_2077400573515862016",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077400573515862016/img/-aK4sayF7pd9n6ud.jpg",
+        "public_metrics": {
+          "view_count": 1374
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077400573515862016/pl/i99nIp1MWGK2-Zda.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077400573515862016/vid/avc1/720x1280/z1ysF9bhqL3e95L6.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077400573515862016/vid/avc1/320x568/WYqmPiTiOH-4RQGe.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077400573515862016/vid/avc1/480x852/a-cBp8D2Xq0Y-NF-.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077400573515862016/vid/avc1/1080x1920/ixys2YJ1-NKnvWqt.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733760966666407936",
+        "conversation_id": "2077772820789244010",
+        "created_at": "2026-07-16T15:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T16:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077772820789244010"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "雲林"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "斗六"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "虎尾"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "中部"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "男娘"
+            },
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "偽娘"
+            },
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "三性"
+            },
+            {
+              "end": 132,
+              "start": 128,
+              "tag": "女装子"
+            },
+            {
+              "end": 137,
+              "start": 133,
+              "tag": "男の娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1541120515594539014",
+              "start": 3,
+              "username": "tutu0422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077772820789244010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077400665996013685",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tutu0422: 發現我有好多庫存沒發耶～🤪🤪\n齁呦～每次在上面搖都會莫名比肉棒頂到騷點～仙女棒就會翹起來一直晃🤤🤤\n騷兔兔最喜歡被男人侵犯騷穴了😍😍\n有哥哥要讓我補多一點庫存嗎🥵🥵\n\n#雲林 ＃斗六 #虎尾  #中部 #男娘 ＃偽娘 ＃三性  ＃女装子 #男の娘…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077400573515862016"
+          ]
+        },
+        "author_id": "1541120515594539014",
+        "conversation_id": "2077400665996013685",
+        "created_at": "2026-07-15T14:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077400665996013685"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 87,
+              "start": 84,
+              "tag": "雲林"
+            },
+            {
+              "end": 91,
+              "start": 88,
+              "tag": "斗六"
+            },
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "虎尾"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "中部"
+            },
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "男娘"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "偽娘"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "三性"
+            },
+            {
+              "end": 118,
+              "start": 114,
+              "tag": "女装子"
+            },
+            {
+              "end": 123,
+              "start": 119,
+              "tag": "男の娘"
+            },
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "cd"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "ts"
+            },
+            {
+              "end": 140,
+              "start": 133,
+              "tag": "femboy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tuNLZxU5gb",
+              "end": 164,
+              "expanded_url": "https://x.com/tutu0422/status/2077400665996013685/video/1",
+              "media_key": "13_2077400573515862016",
+              "start": 141,
+              "url": "https://t.co/tuNLZxU5gb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077400665996013685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 4507,
+          "like_count": 312,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "發現我有好多庫存沒發耶～🤪🤪\n齁呦～每次在上面搖都會莫名比肉棒頂到騷點～仙女棒就會翹起來一直晃🤤🤤\n騷兔兔最喜歡被男人侵犯騷穴了😍😍\n有哥哥要讓我補多一點庫存嗎🥵🥵\n\n#雲林 ＃斗六 #虎尾  #中部 #男娘 ＃偽娘 ＃三性  ＃女装子 #男の娘  #cd #ts #femboy https://t.co/tuNLZxU5gb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "172:-(49kg 不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "location": "香港",
+        "name": "川長乙女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 498,
+          "like_count": 297,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 89
+        },
+        "url": "",
+        "username": "ivanov80_i96326",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-26T18:05:51.000Z",
+        "description": "#雲林 #虎尾 24y 168cm/50kg/ 15cm 男聲 #三性 ，有穿乳環 有刺青 頭髮還在留 聊天記得傳臉照 不傳不一定會回 。⚠️問自介有的東西心情不好的時候語氣不好不要怪我喔～⚠️原帳號：@tututu2022 🈲未滿十八請勿觀看 🈲ig:garo_0422",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "雲林"
+              },
+              {
+                "end": 7,
+                "start": 4,
+                "tag": "虎尾"
+              },
+              {
+                "end": 35,
+                "start": 32,
+                "tag": "三性"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 112,
+                "start": 101,
+                "username": "tututu2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/garo_0422?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/garo_0422?igsh=MWhneTJnMW12dzBoYw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/SzMWXJCJrt"
+              }
+            ]
+          }
+        },
+        "id": "1541120515594539014",
+        "location": "雲林虎尾",
+        "name": "兔兔🐰",
+        "pinned_tweet_id": "2055286348488278183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042786898960384000/6ztKDO4H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4189,
+          "following_count": 474,
+          "like_count": 20906,
+          "listed_count": 5,
+          "media_count": 87,
+          "tweet_count": 532
+        },
+        "url": "https://t.co/SzMWXJCJrt",
+        "username": "tutu0422",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067528717602271232",
+        "3_2067528717661065216"
+      ],
+      "media_source_tweet_id": [
+        "2067528729463775661",
+        "2067528729463775661"
+      ]
+    },
+    "author_id": "1733760966666407936",
+    "conversation_id": "2067625104054550820",
+    "created_at": "2026-06-18T15:06:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T16:06:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067625104054550820"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 39,
+          "tag": "男娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1196633399999389696",
+          "start": 3,
+          "username": "kirisame_nana23"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gMEY6rY65R",
+          "end": 66,
+          "expanded_url": "https://x.com/kirisame_nana23/status/2067528729463775661/photo/1",
+          "media_key": "3_2067528717602271232",
+          "start": 43,
+          "url": "https://t.co/gMEY6rY65R"
+        },
+        {
+          "display_url": "pic.x.com/gMEY6rY65R",
+          "end": 66,
+          "expanded_url": "https://x.com/kirisame_nana23/status/2067528729463775661/photo/1",
+          "media_key": "3_2067528717661065216",
+          "start": 43,
+          "url": "https://t.co/gMEY6rY65R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067625104054550820",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067528729463775661",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kirisame_nana23: 向这个世界竖起小指吧☝🏻☝🏻☝🏻\n #男娘 https://t.co/gMEY6rY65R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067528717602271232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFWaheaMAAWiRN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067528717661065216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFWahsbUAALfyd.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067528717602271232",
+            "3_2067528717661065216"
+          ],
+          "media_source_tweet_id": [
+            "2067528729463775661",
+            "2067528729463775661"
+          ]
+        },
+        "author_id": "1733760966666407936",
+        "conversation_id": "2067625104054550820",
+        "created_at": "2026-06-18T15:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067625104054550820"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "男娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1196633399999389696",
+              "start": 3,
+              "username": "kirisame_nana23"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gMEY6rY65R",
+              "end": 66,
+              "expanded_url": "https://x.com/kirisame_nana23/status/2067528729463775661/photo/1",
+              "media_key": "3_2067528717602271232",
+              "start": 43,
+              "url": "https://t.co/gMEY6rY65R"
+            },
+            {
+              "display_url": "pic.x.com/gMEY6rY65R",
+              "end": 66,
+              "expanded_url": "https://x.com/kirisame_nana23/status/2067528729463775661/photo/1",
+              "media_key": "3_2067528717661065216",
+              "start": 43,
+              "url": "https://t.co/gMEY6rY65R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067625104054550820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067528729463775661",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kirisame_nana23: 向这个世界竖起小指吧☝🏻☝🏻☝🏻\n #男娘 https://t.co/gMEY6rY65R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067528717602271232",
+            "3_2067528717661065216"
+          ]
+        },
+        "author_id": "1196633399999389696",
+        "conversation_id": "2067528729463775661",
+        "created_at": "2026-06-18T08:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067528729463775661"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gMEY6rY65R",
+              "end": 45,
+              "expanded_url": "https://x.com/kirisame_nana23/status/2067528729463775661/photo/1",
+              "media_key": "3_2067528717602271232",
+              "start": 22,
+              "url": "https://t.co/gMEY6rY65R"
+            },
+            {
+              "display_url": "pic.x.com/gMEY6rY65R",
+              "end": 45,
+              "expanded_url": "https://x.com/kirisame_nana23/status/2067528729463775661/photo/1",
+              "media_key": "3_2067528717661065216",
+              "start": 22,
+              "url": "https://t.co/gMEY6rY65R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067528729463775661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 3849,
+          "like_count": 145,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "向这个世界竖起小指吧☝🏻☝🏻☝🏻\n #男娘 https://t.co/gMEY6rY65R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "172:-(49kg 黑皮&不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "location": "香港",
+        "name": "川長乙女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 399,
+          "like_count": 188,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 55
+        },
+        "username": "ivanov80_i96326",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-19T03:36:57.000Z",
+        "description": "✨男♂ | 同类扩列请私信✨\n✨恋人💖@tkns_kanatsu✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 19,
+                "username": "tkns_kanatsu"
+              }
+            ]
+          }
+        },
+        "id": "1196633399999389696",
+        "location": "東京 渋谷区",
+        "name": "雾雨菜菜✨",
+        "pinned_tweet_id": "1994656588553224446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028417234180419584/OAze5cp2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51674,
+          "following_count": 1632,
+          "like_count": 14412,
+          "listed_count": 195,
+          "media_count": 326,
+          "tweet_count": 4495
+        },
+        "username": "kirisame_nana23",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077032363603959808"
+      ]
+    },
+    "author_id": "1733760966666407936",
+    "conversation_id": "2077032371552206881",
+    "created_at": "2026-07-14T14:08:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T15:08:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077032371552206881"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 30,
+          "tag": "女仆"
+        },
+        {
+          "end": 37,
+          "start": 34,
+          "tag": "药娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/79LBToolLl",
+          "end": 61,
+          "expanded_url": "https://x.com/ivanov80_i96326/status/2077032371552206881/photo/1",
+          "media_key": "3_2077032363603959808",
+          "start": 38,
+          "url": "https://t.co/79LBToolLl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077032371552206881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "上一期ktv的女仆穿搭展示了上半身 这一期展示一下下半身吧 #女仆 #药娘 https://t.co/79LBToolLl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1900,
+        "media_key": "3_2077032363603959808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMZ7huaoAAR2Ng.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077032363603959808"
+          ]
+        },
+        "author_id": "1733760966666407936",
+        "conversation_id": "2077032371552206881",
+        "created_at": "2026-07-14T14:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077032371552206881"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "女仆"
+            },
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "药娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/79LBToolLl",
+              "end": 61,
+              "expanded_url": "https://x.com/ivanov80_i96326/status/2077032371552206881/photo/1",
+              "media_key": "3_2077032363603959808",
+              "start": 38,
+              "url": "https://t.co/79LBToolLl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077032371552206881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上一期ktv的女仆穿搭展示了上半身 这一期展示一下下半身吧 #女仆 #药娘 https://t.co/79LBToolLl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "172:-(49kg 不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "location": "香港",
+        "name": "川長乙女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 498,
+          "like_count": 293,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 86
+        },
+        "url": "",
+        "username": "ivanov80_i96326",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065028156227297280"
+      ],
+      "media_source_tweet_id": [
+        "2065028165345726781"
+      ]
+    },
+    "author_id": "1733760966666407936",
+    "conversation_id": "2065380500588618135",
+    "created_at": "2026-06-12T10:27:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T11:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065380500588618135"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 54,
+          "start": 51,
+          "tag": "男娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1385492978051928064",
+          "start": 3,
+          "username": "fut_yue"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PIySC17h4T",
+          "end": 78,
+          "expanded_url": "https://x.com/fut_yue/status/2065028165345726781/photo/1",
+          "media_key": "3_2065028156227297280",
+          "start": 55,
+          "url": "https://t.co/PIySC17h4T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065380500588618135",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065028165345726781",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fut_yue: 希羅醬......好噁。\n\n什麼叫我都隨便你do了，結果你只要襪子？？😭\n\n#男娘 https://t.co/PIySC17h4T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_2065028156227297280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKh0KscboAAUCPh.jpg",
+        "width": 1736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065028156227297280"
+          ],
+          "media_source_tweet_id": [
+            "2065028165345726781"
+          ]
+        },
+        "author_id": "1733760966666407936",
+        "conversation_id": "2065380500588618135",
+        "created_at": "2026-06-12T10:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065380500588618135"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "男娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1385492978051928064",
+              "start": 3,
+              "username": "fut_yue"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PIySC17h4T",
+              "end": 78,
+              "expanded_url": "https://x.com/fut_yue/status/2065028165345726781/photo/1",
+              "media_key": "3_2065028156227297280",
+              "start": 55,
+              "url": "https://t.co/PIySC17h4T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065380500588618135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065028165345726781",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fut_yue: 希羅醬......好噁。\n\n什麼叫我都隨便你do了，結果你只要襪子？？😭\n\n#男娘 https://t.co/PIySC17h4T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065028156227297280"
+          ]
+        },
+        "author_id": "1385492978051928064",
+        "conversation_id": "2065028165345726781",
+        "created_at": "2026-06-11T11:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T12:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065028165345726781"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PIySC17h4T",
+              "end": 65,
+              "expanded_url": "https://x.com/fut_yue/status/2065028165345726781/photo/1",
+              "media_key": "3_2065028156227297280",
+              "start": 42,
+              "url": "https://t.co/PIySC17h4T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065028165345726781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 10210,
+          "like_count": 715,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "希羅醬......好噁。\n\n什麼叫我都隨便你do了，結果你只要襪子？？😭\n\n#男娘 https://t.co/PIySC17h4T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "172:-(49kg 黑皮&不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "location": "香港",
+        "name": "川長乙女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 367,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 51
+        },
+        "username": "ivanov80_i96326",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-23T07:17:30.000Z",
+        "description": "女裝偶爾看心情\n不約不賣不線下😋\n照片超重工P圖生產",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/19gVMsEz…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/19gVMsEzmk/?mibextid=wwXIfr",
+                "start": 0,
+                "url": "https://t.co/Vlk2DmXzPU"
+              }
+            ]
+          }
+        },
+        "id": "1385492978051928064",
+        "location": "距離你-5cm",
+        "name": "FutYue",
+        "pinned_tweet_id": "2049517055205101630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048580246539264000/rYikK-qr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 1397,
+          "like_count": 6951,
+          "listed_count": 3,
+          "media_count": 91,
+          "tweet_count": 819
+        },
+        "url": "https://t.co/Vlk2DmXzPU",
+        "username": "fut_yue",
+        "verified": false
+      }
+    ]
+  }
+}

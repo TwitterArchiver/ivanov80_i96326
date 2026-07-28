@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071242210574843904",
+        "3_2071242210599915521"
+      ],
+      "media_source_tweet_id": [
+        "2071242239372587307",
+        "2071242239372587307"
+      ]
+    },
+    "author_id": "1733760966666407936",
+    "conversation_id": "2071655720945332301",
+    "created_at": "2026-06-29T18:03:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T19:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071655720945332301"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 17,
+          "tag": "男の娘"
+        },
+        {
+          "end": 29,
+          "start": 22,
+          "tag": "可爱的男孩子"
+        },
+        {
+          "end": 33,
+          "start": 30,
+          "tag": "伪娘"
+        },
+        {
+          "end": 41,
+          "start": 34,
+          "tag": "femboy"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1424784802926907394",
+          "start": 3,
+          "username": "biubiudiana"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b731oiLt5K",
+          "end": 65,
+          "expanded_url": "https://x.com/biubiudiana/status/2071242239372587307/photo/1",
+          "media_key": "3_2071242210574843904",
+          "start": 42,
+          "url": "https://t.co/b731oiLt5K"
+        },
+        {
+          "display_url": "pic.x.com/b731oiLt5K",
+          "end": 65,
+          "expanded_url": "https://x.com/biubiudiana/status/2071242239372587307/photo/1",
+          "media_key": "3_2071242210599915521",
+          "start": 42,
+          "url": "https://t.co/b731oiLt5K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071655720945332301",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071242239372587307",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @biubiudiana: #男の娘 #可爱的男孩子 #伪娘 #femboy https://t.co/b731oiLt5K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2136,
+        "media_key": "3_2071242210574843904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6H0Q0bwAAQ4uS.jpg",
+        "width": 1602
+      },
+      {
+        "height": 2382,
+        "media_key": "3_2071242210599915521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6H0Q6aUAEZsbk.jpg",
+        "width": 1787
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071242210574843904",
+            "3_2071242210599915521"
+          ],
+          "media_source_tweet_id": [
+            "2071242239372587307",
+            "2071242239372587307"
+          ]
+        },
+        "author_id": "1733760966666407936",
+        "conversation_id": "2071655720945332301",
+        "created_at": "2026-06-29T18:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T19:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071655720945332301"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "男の娘"
+            },
+            {
+              "end": 29,
+              "start": 22,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "伪娘"
+            },
+            {
+              "end": 41,
+              "start": 34,
+              "tag": "femboy"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1424784802926907394",
+              "start": 3,
+              "username": "biubiudiana"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b731oiLt5K",
+              "end": 65,
+              "expanded_url": "https://x.com/biubiudiana/status/2071242239372587307/photo/1",
+              "media_key": "3_2071242210574843904",
+              "start": 42,
+              "url": "https://t.co/b731oiLt5K"
+            },
+            {
+              "display_url": "pic.x.com/b731oiLt5K",
+              "end": 65,
+              "expanded_url": "https://x.com/biubiudiana/status/2071242239372587307/photo/1",
+              "media_key": "3_2071242210599915521",
+              "start": 42,
+              "url": "https://t.co/b731oiLt5K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071655720945332301",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071242239372587307",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @biubiudiana: #男の娘 #可爱的男孩子 #伪娘 #femboy https://t.co/b731oiLt5K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071242210574843904",
+            "3_2071242210599915521"
+          ]
+        },
+        "author_id": "1424784802926907394",
+        "conversation_id": "2071242239372587307",
+        "created_at": "2026-06-28T14:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T15:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071242239372587307"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "男の娘"
+            },
+            {
+              "end": 12,
+              "start": 5,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "伪娘"
+            },
+            {
+              "end": 24,
+              "start": 17,
+              "tag": "femboy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b731oiLt5K",
+              "end": 48,
+              "expanded_url": "https://x.com/biubiudiana/status/2071242239372587307/photo/1",
+              "media_key": "3_2071242210574843904",
+              "start": 25,
+              "url": "https://t.co/b731oiLt5K"
+            },
+            {
+              "display_url": "pic.x.com/b731oiLt5K",
+              "end": 48,
+              "expanded_url": "https://x.com/biubiudiana/status/2071242239372587307/photo/1",
+              "media_key": "3_2071242210599915521",
+              "start": 25,
+              "url": "https://t.co/b731oiLt5K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071242239372587307",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 19299,
+          "like_count": 446,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "#男の娘 #可爱的男孩子 #伪娘 #femboy https://t.co/b731oiLt5K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "172:-(49kg 不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "location": "香港",
+        "name": "川長乙女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 446,
+          "like_count": 209,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 58
+        },
+        "url": "",
+        "username": "ivanov80_i96326",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:30:19.000Z",
+        "description": "一步两个脚印",
+        "id": "1424784802926907394",
+        "location": "理塘",
+        "name": "斩子",
+        "pinned_tweet_id": "1662387524260724737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1716466641578713088/l78ZICrc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5990,
+          "following_count": 980,
+          "like_count": 19938,
+          "listed_count": 38,
+          "media_count": 323,
+          "tweet_count": 764
+        },
+        "url": "",
+        "username": "biubiudiana",
+        "verified": true
+      }
+    ]
+  }
+}

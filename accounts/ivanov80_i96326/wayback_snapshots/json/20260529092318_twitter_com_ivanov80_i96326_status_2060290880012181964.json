@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733760966666407936",
+    "conversation_id": "2060099633679090160",
+    "created_at": "2026-05-29T09:23:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T10:23:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060290880012181964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1631173823528841217",
+          "start": 0,
+          "username": "hit23155979"
+        },
+        {
+          "end": 23,
+          "id": "1743636430969303040",
+          "start": 13,
+          "username": "akinoomoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060290880012181964",
+    "in_reply_to_user_id": "1631173823528841217",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060099633679090160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hit23155979 @akinoomoi 喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060099630801846272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbxswfbgAAVQJw.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2060099630604623872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbxsvwaIAAEZ_o.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060099631032446976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbxsxWaMAA81Lj.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060099631221227520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbxsyDawAARzfN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733760966666407936",
+        "conversation_id": "2060099633679090160",
+        "created_at": "2026-05-29T09:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060290880012181964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1631173823528841217",
+              "start": 0,
+              "username": "hit23155979"
+            },
+            {
+              "end": 23,
+              "id": "1743636430969303040",
+              "start": 13,
+              "username": "akinoomoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060290880012181964",
+        "in_reply_to_user_id": "1631173823528841217",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060099633679090160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hit23155979 @akinoomoi 喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060099630801846272",
+            "3_2060099630604623872",
+            "3_2060099631032446976",
+            "3_2060099631221227520"
+          ]
+        },
+        "author_id": "1631173823528841217",
+        "conversation_id": "2060099633679090160",
+        "created_at": "2026-05-28T20:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T21:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060099633679090160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iQZqwGfsB6",
+              "end": 178,
+              "expanded_url": "https://x.com/hit23155979/status/2060099633679090160/photo/1",
+              "media_key": "3_2060099630801846272",
+              "start": 155,
+              "url": "https://t.co/iQZqwGfsB6"
+            },
+            {
+              "display_url": "pic.x.com/iQZqwGfsB6",
+              "end": 178,
+              "expanded_url": "https://x.com/hit23155979/status/2060099633679090160/photo/1",
+              "media_key": "3_2060099630604623872",
+              "start": 155,
+              "url": "https://t.co/iQZqwGfsB6"
+            },
+            {
+              "display_url": "pic.x.com/iQZqwGfsB6",
+              "end": 178,
+              "expanded_url": "https://x.com/hit23155979/status/2060099633679090160/photo/1",
+              "media_key": "3_2060099631032446976",
+              "start": 155,
+              "url": "https://t.co/iQZqwGfsB6"
+            },
+            {
+              "display_url": "pic.x.com/iQZqwGfsB6",
+              "end": 178,
+              "expanded_url": "https://x.com/hit23155979/status/2060099633679090160/photo/1",
+              "media_key": "3_2060099631221227520",
+              "start": 155,
+              "url": "https://t.co/iQZqwGfsB6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060099633679090160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 10675,
+          "like_count": 430,
+          "quote_count": 1,
+          "reply_count": 184,
+          "retweet_count": 180
+        },
+        "reply_settings": "everyone",
+        "text": "马上10000粉了依旧进行一个抽奖啊\n。上一次很多中奖的都没有关注主播，这一次大家记得关注一下啊😭\n依旧关注评论点赞转发参与\n特等奖：依旧夫妻井线下双飞一次（可改线上）×1\n一等奖：一套郊狼3.0（不可以折现）×1\n二等奖：随机图包一套 x 5\n三等奖：三国杀会员月卡×5（可以折现28）\n四等奖：奶茶×15 https://t.co/iQZqwGfsB6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "172:-(49kg 黑皮&不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "location": "香港",
+        "name": "川長乙女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 302,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 36
+        },
+        "username": "ivanov80_i96326",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-02T06:05:27.000Z",
+        "description": "大号@haitu223被冻结了，被迫转生\n私信口令40/88/288获取菜单\n坐标四川",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "haitu223"
+              }
+            ]
+          }
+        },
+        "id": "1631173823528841217",
+        "name": "板鸭（转生版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1656704309525086208/pIrCcX2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7683,
+          "following_count": 363,
+          "like_count": 50,
+          "listed_count": 23,
+          "media_count": 24,
+          "tweet_count": 67
+        },
+        "username": "hit23155979",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-06T14:11:47.000Z",
+        "description": "这里是忆之秋，是一个武装直升机（╳） 想被大家认可的说！OvO想把自己打扮的可爱！不过目前还在学习化妆中… 目前只打算当个清水推QwQ（这人是个🐖🐖不会写标题）））可爱宝宝扩列可以私信哦（快来快来ovo！！）",
+        "id": "1743636430969303040",
+        "name": "秋",
+        "pinned_tweet_id": "2043737695202226631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039031191387717632/rbSVVtso_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 1175,
+          "like_count": 20203,
+          "listed_count": 3,
+          "media_count": 43,
+          "tweet_count": 350
+        },
+        "username": "akinoomoi",
+        "verified": false
+      }
+    ]
+  }
+}

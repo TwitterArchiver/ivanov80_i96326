@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733760966666407936",
+    "conversation_id": "2045902866515427428",
+    "created_at": "2026-04-20T10:18:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T11:18:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046171684445753715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1960732406094422023",
+          "start": 0,
+          "username": "yeye311189106"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046171684445753715",
+    "in_reply_to_user_id": "1960732406094422023",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045902866515427428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yeye311189106 太美了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045902861222268930",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGSB0Agb0AIDdeL.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045902858848206848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGSBz3qagAAeQyX.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045902858558857216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGSBz2lbYAA9Ei1.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733760966666407936",
+        "conversation_id": "2045902866515427428",
+        "created_at": "2026-04-20T10:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T11:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046171684445753715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1960732406094422023",
+              "start": 0,
+              "username": "yeye311189106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046171684445753715",
+        "in_reply_to_user_id": "1960732406094422023",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045902866515427428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeye311189106 太美了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045902861222268930",
+            "3_2045902858848206848",
+            "3_2045902858558857216"
+          ]
+        },
+        "author_id": "1960732406094422023",
+        "conversation_id": "2045902866515427428",
+        "created_at": "2026-04-19T16:30:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T17:30:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045902866515427428"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "男娘"
+            },
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "伪娘"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "CD"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YgXQSFYsCb",
+              "end": 98,
+              "expanded_url": "https://x.com/yeye311189106/status/2045902866515427428/photo/1",
+              "media_key": "3_2045902861222268930",
+              "start": 75,
+              "url": "https://t.co/YgXQSFYsCb"
+            },
+            {
+              "display_url": "pic.x.com/YgXQSFYsCb",
+              "end": 98,
+              "expanded_url": "https://x.com/yeye311189106/status/2045902866515427428/photo/1",
+              "media_key": "3_2045902858848206848",
+              "start": 75,
+              "url": "https://t.co/YgXQSFYsCb"
+            },
+            {
+              "display_url": "pic.x.com/YgXQSFYsCb",
+              "end": 98,
+              "expanded_url": "https://x.com/yeye311189106/status/2045902866515427428/photo/1",
+              "media_key": "3_2045902858558857216",
+              "start": 75,
+              "url": "https://t.co/YgXQSFYsCb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045902866515427428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 21083,
+          "like_count": 329,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "昨天穿着一身出去吃夜宵 明显感觉被很多路过的人盯着看。。不过他们应该想不到裙子下面是快漏出的肉棒和为了方便穿的开裆丝袜吧🤣\n\n#男娘 #伪娘 #CD https://t.co/YgXQSFYsCb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "172:-(49kg 黑皮&不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "location": "香港",
+        "name": "川長乙女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 12,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "ivanov80_i96326",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-27T15:53:37.000Z",
+        "description": "萌新男娘/喜欢好看的lolita jk 蕾服等等/练习摄影中/坐标成都/欢迎聊天扩列👏",
+        "id": "1960732406094422023",
+        "name": "夜夜子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044453033720123392/OXKEM-Em_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1914,
+          "following_count": 28,
+          "like_count": 60,
+          "listed_count": 12,
+          "media_count": 25,
+          "tweet_count": 31
+        },
+        "username": "yeye311189106",
+        "verified": true
+      }
+    ]
+  }
+}

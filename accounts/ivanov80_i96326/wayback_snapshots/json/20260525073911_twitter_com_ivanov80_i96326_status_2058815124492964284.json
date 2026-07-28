@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058413295409975296"
+      ],
+      "media_source_tweet_id": [
+        "2058413298182504544"
+      ]
+    },
+    "author_id": "1733760966666407936",
+    "conversation_id": "2058815124492964284",
+    "created_at": "2026-05-25T07:39:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T08:39:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058815124492964284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2014653785877209088",
+          "start": 3,
+          "username": "wreyesjruc9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DAIdMpTQR1",
+          "end": 106,
+          "expanded_url": "https://x.com/wreyesjruc9/status/2058413298182504544/photo/1",
+          "media_key": "3_2058413295409975296",
+          "start": 83,
+          "url": "https://t.co/DAIdMpTQR1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058815124492964284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058413298182504544",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wreyesjruc9: 已经100fo了喵\n咱也来个抽奖吧\n一等奖  国补一盒\n二等奖  15\n三等奖  8.8\n赞转推评论参加，5月26日上午12点开奖 https://t.co/DAIdMpTQR1"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2058815124492964284].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2058815124492964284",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2058815124492964284"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2058413295409975296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJDz_HnaUAADvqe.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058413295409975296"
+          ]
+        },
+        "author_id": "2014653785877209088",
+        "conversation_id": "2058413298182504544",
+        "created_at": "2026-05-24T05:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T06:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058413298182504544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DAIdMpTQR1",
+              "end": 89,
+              "expanded_url": "https://x.com/wreyesjruc9/status/2058413298182504544/photo/1",
+              "media_key": "3_2058413295409975296",
+              "start": 66,
+              "url": "https://t.co/DAIdMpTQR1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058413298182504544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4583,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "已经100fo了喵\n咱也来个抽奖吧\n一等奖  国补一盒\n二等奖  15\n三等奖  8.8\n赞转推评论参加，5月26日上午12点开奖 https://t.co/DAIdMpTQR1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "172:-(49kg 黑皮&不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "location": "香港",
+        "name": "川長乙女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 275,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 32
+        },
+        "username": "ivanov80_i96326",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-23T10:57:59.000Z",
+        "description": "09年/药娘/mtf/ 同类互fo可私信/己出柜/家长党",
+        "id": "2014653785877209088",
+        "name": "王晓宪🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2058409940839202963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047789879447404544/AUxrwbLS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 53,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 132
+        },
+        "username": "wreyesjruc9",
+        "verified": false
+      }
+    ]
+  }
+}

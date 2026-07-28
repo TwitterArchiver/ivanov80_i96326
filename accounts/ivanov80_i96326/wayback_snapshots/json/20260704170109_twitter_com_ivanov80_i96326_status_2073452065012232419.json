@@ -1,0 +1,446 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072979200697585664",
+        "3_2072979201154859008",
+        "3_2072979200697614336",
+        "3_2072979200710164480"
+      ],
+      "media_source_tweet_id": [
+        "2072979211321823708",
+        "2072979211321823708",
+        "2072979211321823708",
+        "2072979211321823708"
+      ]
+    },
+    "author_id": "1733760966666407936",
+    "conversation_id": "2073452065012232419",
+    "created_at": "2026-07-04T17:01:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T18:01:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073452065012232419"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 31,
+          "tag": "TS"
+        },
+        {
+          "end": 38,
+          "start": 35,
+          "tag": "药娘"
+        },
+        {
+          "end": 43,
+          "start": 39,
+          "tag": "跨性别"
+        },
+        {
+          "end": 47,
+          "start": 44,
+          "tag": "丝袜"
+        },
+        {
+          "end": 51,
+          "start": 48,
+          "tag": "雌堕"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1461952068873302019",
+          "start": 3,
+          "username": "aiciduodexiaoyu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nPQrdF6oy3",
+          "end": 75,
+          "expanded_url": "https://x.com/aiciduodexiaoyu/status/2072979211321823708/photo/1",
+          "media_key": "3_2072979200697585664",
+          "start": 52,
+          "url": "https://t.co/nPQrdF6oy3"
+        },
+        {
+          "display_url": "pic.x.com/nPQrdF6oy3",
+          "end": 75,
+          "expanded_url": "https://x.com/aiciduodexiaoyu/status/2072979211321823708/photo/1",
+          "media_key": "3_2072979201154859008",
+          "start": 52,
+          "url": "https://t.co/nPQrdF6oy3"
+        },
+        {
+          "display_url": "pic.x.com/nPQrdF6oy3",
+          "end": 75,
+          "expanded_url": "https://x.com/aiciduodexiaoyu/status/2072979211321823708/photo/1",
+          "media_key": "3_2072979200697614336",
+          "start": 52,
+          "url": "https://t.co/nPQrdF6oy3"
+        },
+        {
+          "display_url": "pic.x.com/nPQrdF6oy3",
+          "end": 75,
+          "expanded_url": "https://x.com/aiciduodexiaoyu/status/2072979211321823708/photo/1",
+          "media_key": "3_2072979200710164480",
+          "start": 52,
+          "url": "https://t.co/nPQrdF6oy3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073452065012232419",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072979211321823708",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aiciduodexiaoyu: 今天是肉丝➕小白裙\n#TS #药娘 #跨性别 #丝袜 #雌堕 https://t.co/nPQrdF6oy3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072979200697585664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSzmZRaUAAu6U1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072979201154859008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSzma-bwAABs4Q.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072979200697614336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSzmZRawAAlFOI.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072979200710164480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSzmZUaQAAK4_I.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072979200697585664",
+            "3_2072979201154859008",
+            "3_2072979200697614336",
+            "3_2072979200710164480"
+          ],
+          "media_source_tweet_id": [
+            "2072979211321823708",
+            "2072979211321823708",
+            "2072979211321823708",
+            "2072979211321823708"
+          ]
+        },
+        "author_id": "1733760966666407936",
+        "conversation_id": "2073452065012232419",
+        "created_at": "2026-07-04T17:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073452065012232419"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "TS"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "药娘"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "跨性别"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "丝袜"
+            },
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "雌堕"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1461952068873302019",
+              "start": 3,
+              "username": "aiciduodexiaoyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nPQrdF6oy3",
+              "end": 75,
+              "expanded_url": "https://x.com/aiciduodexiaoyu/status/2072979211321823708/photo/1",
+              "media_key": "3_2072979200697585664",
+              "start": 52,
+              "url": "https://t.co/nPQrdF6oy3"
+            },
+            {
+              "display_url": "pic.x.com/nPQrdF6oy3",
+              "end": 75,
+              "expanded_url": "https://x.com/aiciduodexiaoyu/status/2072979211321823708/photo/1",
+              "media_key": "3_2072979201154859008",
+              "start": 52,
+              "url": "https://t.co/nPQrdF6oy3"
+            },
+            {
+              "display_url": "pic.x.com/nPQrdF6oy3",
+              "end": 75,
+              "expanded_url": "https://x.com/aiciduodexiaoyu/status/2072979211321823708/photo/1",
+              "media_key": "3_2072979200697614336",
+              "start": 52,
+              "url": "https://t.co/nPQrdF6oy3"
+            },
+            {
+              "display_url": "pic.x.com/nPQrdF6oy3",
+              "end": 75,
+              "expanded_url": "https://x.com/aiciduodexiaoyu/status/2072979211321823708/photo/1",
+              "media_key": "3_2072979200710164480",
+              "start": 52,
+              "url": "https://t.co/nPQrdF6oy3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073452065012232419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072979211321823708",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aiciduodexiaoyu: 今天是肉丝➕小白裙\n#TS #药娘 #跨性别 #丝袜 #雌堕 https://t.co/nPQrdF6oy3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072979200697585664",
+            "3_2072979201154859008",
+            "3_2072979200697614336",
+            "3_2072979200710164480"
+          ]
+        },
+        "author_id": "1461952068873302019",
+        "conversation_id": "2072979211321823708",
+        "created_at": "2026-07-03T09:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T10:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072979211321823708"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "TS"
+            },
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "药娘"
+            },
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "跨性别"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "丝袜"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "雌堕"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nPQrdF6oy3",
+              "end": 54,
+              "expanded_url": "https://x.com/aiciduodexiaoyu/status/2072979211321823708/photo/1",
+              "media_key": "3_2072979200697585664",
+              "start": 31,
+              "url": "https://t.co/nPQrdF6oy3"
+            },
+            {
+              "display_url": "pic.x.com/nPQrdF6oy3",
+              "end": 54,
+              "expanded_url": "https://x.com/aiciduodexiaoyu/status/2072979211321823708/photo/1",
+              "media_key": "3_2072979201154859008",
+              "start": 31,
+              "url": "https://t.co/nPQrdF6oy3"
+            },
+            {
+              "display_url": "pic.x.com/nPQrdF6oy3",
+              "end": 54,
+              "expanded_url": "https://x.com/aiciduodexiaoyu/status/2072979211321823708/photo/1",
+              "media_key": "3_2072979200697614336",
+              "start": 31,
+              "url": "https://t.co/nPQrdF6oy3"
+            },
+            {
+              "display_url": "pic.x.com/nPQrdF6oy3",
+              "end": 54,
+              "expanded_url": "https://x.com/aiciduodexiaoyu/status/2072979211321823708/photo/1",
+              "media_key": "3_2072979200710164480",
+              "start": 31,
+              "url": "https://t.co/nPQrdF6oy3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072979211321823708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 52153,
+          "like_count": 491,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "今天是肉丝➕小白裙\n#TS #药娘 #跨性别 #丝袜 #雌堕 https://t.co/nPQrdF6oy3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "172:-(49kg 不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "location": "香港",
+        "name": "川長乙女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 475,
+          "like_count": 242,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 71
+        },
+        "url": "",
+        "username": "ivanov80_i96326",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-20T06:58:42.000Z",
+        "description": "药💉娘｜MTF｜04年大学生｜180cm 62kg｜缺钱缺钱缺钱 想做面部ffs 想隆胸 想丰胯 想缩肩",
+        "id": "1461952068873302019",
+        "location": "江苏省, 南京市",
+        "name": "不许说胖 🏳️‍⚧️",
+        "pinned_tweet_id": "2073286324006658528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072307614881587200/VeFookRc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1731,
+          "following_count": 20,
+          "like_count": 62,
+          "listed_count": 8,
+          "media_count": 7,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "aiciduodexiaoyu",
+        "verified": false
+      }
+    ]
+  }
+}

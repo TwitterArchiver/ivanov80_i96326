@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733760966666407936",
+    "conversation_id": "2071644239545438502",
+    "created_at": "2026-06-30T07:35:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T08:35:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071860229202137571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1865661562175819776",
+          "start": 0,
+          "username": "Cammy_Neon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071860229202137571",
+    "in_reply_to_user_id": "1865661562175819776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071644239545438502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cammy_Neon 你好可爱呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10816,
+        "height": 1280,
+        "media_key": "7_2071644189469675520",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2071644189469675520/pu/img/bDtb301DuKWjcY9T.jpg",
+        "public_metrics": {
+          "view_count": 299
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071644189469675520/pu/vid/avc1/320x568/50tSI5rdB6ZmMeuK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071644189469675520/pu/vid/avc1/480x852/xM_Jh7Wm0dJfE7Tc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071644189469675520/pu/vid/avc1/720x1280/X3SLr3so6WNgOpQ3.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2071644189469675520/pu/pl/sItqh8j5SlKuF-P1.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733760966666407936",
+        "conversation_id": "2071644239545438502",
+        "created_at": "2026-06-30T07:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T08:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071860229202137571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1865661562175819776",
+              "start": 0,
+              "username": "Cammy_Neon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071860229202137571",
+        "in_reply_to_user_id": "1865661562175819776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071644239545438502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cammy_Neon 你好可爱呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2071644189469675520"
+          ]
+        },
+        "author_id": "1865661562175819776",
+        "conversation_id": "2071644239545438502",
+        "created_at": "2026-06-29T17:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T18:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071644239545438502"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "男娘"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "雌堕"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qyWstHvTpv",
+              "end": 39,
+              "expanded_url": "https://x.com/Cammy_Neon/status/2071644239545438502/video/1",
+              "media_key": "7_2071644189469675520",
+              "start": 16,
+              "url": "https://t.co/qyWstHvTpv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071644239545438502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1377,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想跟你表白~ #男娘 #雌堕 https://t.co/qyWstHvTpv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "172:-(49kg 不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "location": "香港",
+        "name": "川長乙女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 447,
+          "like_count": 212,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "ivanov80_i96326",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T07:36:25.000Z",
+        "description": "07 南梁 161/105",
+        "id": "1865661562175819776",
+        "name": "我有玉玉症",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069005122303377408/Dicsq8gc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 14,
+          "like_count": 1006,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "Cammy_Neon",
+        "verified": false
+      }
+    ]
+  }
+}

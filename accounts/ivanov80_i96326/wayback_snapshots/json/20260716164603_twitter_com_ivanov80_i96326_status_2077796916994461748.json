@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077796903794987008",
+        "3_2077796903782404096"
+      ]
+    },
+    "author_id": "1733760966666407936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2077796916994461748",
+    "created_at": "2026-07-16T16:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T17:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077796916994461748"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/robge197V6",
+          "end": 102,
+          "expanded_url": "https://x.com/ivanov80_i96326/status/2077796916994461748/photo/1",
+          "media_key": "3_2077796903794987008",
+          "start": 79,
+          "url": "https://t.co/robge197V6"
+        },
+        {
+          "display_url": "pic.x.com/robge197V6",
+          "end": 102,
+          "expanded_url": "https://x.com/ivanov80_i96326/status/2077796916994461748/photo/1",
+          "media_key": "3_2077796903782404096",
+          "start": 79,
+          "url": "https://t.co/robge197V6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077796916994461748",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "左边奶量和右边奶量 enen感觉似有似无呢这次吸了二十分钟左右 是吸奶器的问题还是我的问题呀 总感觉奶量好少啊 看了看倒数日已经用了一个月二十天了快两个月了 https://t.co/robge197V6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077796903794987008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNXRRn4bUAAzEwP.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077796903782404096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNXRRn1bUAAzHbI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077796903794987008",
+            "3_2077796903782404096"
+          ]
+        },
+        "author_id": "1733760966666407936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2077796916994461748",
+        "created_at": "2026-07-16T16:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T17:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077796916994461748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/robge197V6",
+              "end": 102,
+              "expanded_url": "https://x.com/ivanov80_i96326/status/2077796916994461748/photo/1",
+              "media_key": "3_2077796903794987008",
+              "start": 79,
+              "url": "https://t.co/robge197V6"
+            },
+            {
+              "display_url": "pic.x.com/robge197V6",
+              "end": 102,
+              "expanded_url": "https://x.com/ivanov80_i96326/status/2077796916994461748/photo/1",
+              "media_key": "3_2077796903782404096",
+              "start": 79,
+              "url": "https://t.co/robge197V6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077796916994461748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "左边奶量和右边奶量 enen感觉似有似无呢这次吸了二十分钟左右 是吸奶器的问题还是我的问题呀 总感觉奶量好少啊 看了看倒数日已经用了一个月二十天了快两个月了 https://t.co/robge197V6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "172:-(49kg 不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "location": "香港",
+        "name": "川長乙女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 498,
+          "like_count": 297,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 90
+        },
+        "url": "",
+        "username": "ivanov80_i96326",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733760966666407936",
+    "conversation_id": "2045420044818297064",
+    "created_at": "2026-04-18T08:31:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T09:31:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045420044818297064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "849369742515331073",
+          "start": 3,
+          "username": "TheZahahey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045420044818297064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044854518698135940",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheZahahey: 色（醋酸环丙孕酮）是抗雄，是最基础的。\n\n补（补佳乐、戊酸雌二醇）是雌激素，这是增加雌激素，使之女性化。\n\n色谱龙+泰补 一起搭配使用，抗雄并提供女性化发育的基础条件：体毛减少，皮肤出油减少，发育女性化特征，涨胸以及面部偏向女性化… https:…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1228,
+        "media_key": "3_2044854340977086464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGDIMGNa0AAQq07.jpg",
+        "width": 1080
+      },
+      {
+        "height": 914,
+        "media_key": "3_2044854340964470784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGDIMGKaUAAz45D.jpg",
+        "width": 1280
+      },
+      {
+        "height": 973,
+        "media_key": "3_2044854340993888256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGDIMGRbMAA9HzP.jpg",
+        "width": 1280
+      },
+      {
+        "height": 986,
+        "media_key": "3_2044854340993814528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGDIMGRaEAAS_nY.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733760966666407936",
+        "conversation_id": "2045420044818297064",
+        "created_at": "2026-04-18T08:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T09:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045420044818297064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "849369742515331073",
+              "start": 3,
+              "username": "TheZahahey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045420044818297064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044854518698135940",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheZahahey: 色（醋酸环丙孕酮）是抗雄，是最基础的。\n\n补（补佳乐、戊酸雌二醇）是雌激素，这是增加雌激素，使之女性化。\n\n色谱龙+泰补 一起搭配使用，抗雄并提供女性化发育的基础条件：体毛减少，皮肤出油减少，发育女性化特征，涨胸以及面部偏向女性化… https:…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044854340977086464",
+            "3_2044854340964470784",
+            "3_2044854340993888256",
+            "3_2044854340993814528"
+          ]
+        },
+        "author_id": "849369742515331073",
+        "conversation_id": "2044854518698135940",
+        "created_at": "2026-04-16T19:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T20:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044854518698135940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B70NOpO80Y",
+              "end": 140,
+              "expanded_url": "https://x.com/TheZahahey/status/2044854518698135940/photo/1",
+              "media_key": "3_2044854340977086464",
+              "start": 117,
+              "url": "https://t.co/B70NOpO80Y"
+            },
+            {
+              "display_url": "pic.x.com/B70NOpO80Y",
+              "end": 140,
+              "expanded_url": "https://x.com/TheZahahey/status/2044854518698135940/photo/1",
+              "media_key": "3_2044854340964470784",
+              "start": 117,
+              "url": "https://t.co/B70NOpO80Y"
+            },
+            {
+              "display_url": "pic.x.com/B70NOpO80Y",
+              "end": 140,
+              "expanded_url": "https://x.com/TheZahahey/status/2044854518698135940/photo/1",
+              "media_key": "3_2044854340993888256",
+              "start": 117,
+              "url": "https://t.co/B70NOpO80Y"
+            },
+            {
+              "display_url": "pic.x.com/B70NOpO80Y",
+              "end": 140,
+              "expanded_url": "https://x.com/TheZahahey/status/2044854518698135940/photo/1",
+              "media_key": "3_2044854340993814528",
+              "start": 117,
+              "url": "https://t.co/B70NOpO80Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044854518698135940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 153,
+          "impression_count": 27814,
+          "like_count": 351,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "色（醋酸环丙孕酮）是抗雄，是最基础的。\n\n补（补佳乐、戊酸雌二醇）是雌激素，这是增加雌激素，使之女性化。\n\n色谱龙+泰补 一起搭配使用，抗雄并提供女性化发育的基础条件：体毛减少，皮肤出油减少，发育女性化特征，涨胸以及面部偏向女性化… https://t.co/B70NOpO80Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "172:-(49kg 黑皮&不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "location": "香港",
+        "name": "川長乙女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 8,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "ivanov80_i96326",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-04T21:15:02.000Z",
+        "description": "防走丢，请一定要关注大号：@AksharJethwa 谢谢大家❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 13,
+                "username": "AksharJethwa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+wBDzPQ9oCdVhY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+wBDzPQ9oCdVhYjI1",
+                "start": 0,
+                "url": "https://t.co/qGoA4QuckS"
+              }
+            ]
+          }
+        },
+        "id": "849369742515331073",
+        "location": "聊天群👉",
+        "name": "猫耳朵maoerduo🏳️‍⚧️3",
+        "pinned_tweet_id": "2044854518698135940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044852856768081920/5-1DMVmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 3,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 9
+        },
+        "url": "https://t.co/qGoA4QuckS",
+        "username": "TheZahahey",
+        "verified": false
+      }
+    ]
+  }
+}

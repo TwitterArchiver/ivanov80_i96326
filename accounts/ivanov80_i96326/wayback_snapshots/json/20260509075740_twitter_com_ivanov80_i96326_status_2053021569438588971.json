@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733760966666407936",
+    "conversation_id": "2052829784657563773",
+    "created_at": "2026-05-09T07:57:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T08:57:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053021569438588971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1845041900195282948",
+          "start": 0,
+          "username": "bernadine18107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053021569438588971",
+    "in_reply_to_user_id": "1845041900195282948",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052829784657563773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bernadine18107 我是轻度抑郁症哈哈哈哈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052829772779315200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH0dzU7bYAA70LQ.jpg",
+        "width": 1630
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052829772770938880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH0dzU5bkAAatFi.jpg",
+        "width": 1642
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733760966666407936",
+        "conversation_id": "2052829784657563773",
+        "created_at": "2026-05-09T07:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T08:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053021569438588971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845041900195282948",
+              "start": 0,
+              "username": "bernadine18107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053021569438588971",
+        "in_reply_to_user_id": "1845041900195282948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052829784657563773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bernadine18107 我是轻度抑郁症哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052829772779315200",
+            "3_2052829772770938880"
+          ]
+        },
+        "author_id": "1845041900195282948",
+        "conversation_id": "2052829784657563773",
+        "created_at": "2026-05-08T19:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T20:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052829784657563773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZwFgsyI6BM",
+              "end": 53,
+              "expanded_url": "https://x.com/bernadine18107/status/2052829784657563773/photo/1",
+              "media_key": "3_2052829772779315200",
+              "start": 30,
+              "url": "https://t.co/ZwFgsyI6BM"
+            },
+            {
+              "display_url": "pic.x.com/ZwFgsyI6BM",
+              "end": 53,
+              "expanded_url": "https://x.com/bernadine18107/status/2052829784657563773/photo/1",
+              "media_key": "3_2052829772770938880",
+              "start": 30,
+              "url": "https://t.co/ZwFgsyI6BM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052829784657563773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6286,
+          "like_count": 103,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是不是我们十个男娘就有8个抑郁症？\n总之靠自己走出来了.. https://t.co/ZwFgsyI6BM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "172:-(49kg 黑皮&不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "location": "香港",
+        "name": "川長乙女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 179,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 19
+        },
+        "username": "ivanov80_i96326",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T10:00:55.000Z",
+        "description": "04年出厂的药娘👀 ｜在属于自己的轨道安静运行💗｜想做的事情有很多很多我会一件件实现❤️‍🩹｜梦想是SRS成为有阴道瓣的女孩子🤔｜共情➕重度依赖｜@Fitzgerald10184 小号/聊天戳👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "Fitzgerald10184"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Qiu0091",
+                "end": 23,
+                "expanded_url": "https://t.me/Qiu0091",
+                "start": 0,
+                "url": "https://t.co/nUqWCJu4Gq"
+              }
+            ]
+          }
+        },
+        "id": "1845041900195282948",
+        "location": "生命独特的坐标",
+        "name": "Niqiu-妮湫（充满希望版）🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2029572914392224148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943944034050813952/okWv5JY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4573,
+          "following_count": 750,
+          "like_count": 1650,
+          "listed_count": 13,
+          "media_count": 113,
+          "tweet_count": 600
+        },
+        "url": "https://t.co/nUqWCJu4Gq",
+        "username": "bernadine18107",
+        "verified": false
+      }
+    ]
+  }
+}

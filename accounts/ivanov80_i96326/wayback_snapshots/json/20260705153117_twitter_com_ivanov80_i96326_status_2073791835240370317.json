@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733760966666407936",
+    "conversation_id": "2073472227354538076",
+    "created_at": "2026-07-05T15:31:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T16:31:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073791835240370317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2072563311569412096",
+          "start": 0,
+          "username": "yiliubazhendeai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073791835240370317",
+    "in_reply_to_user_id": "2072563311569412096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073697162911989847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yiliubazhendeai 嘿嘿你不是呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733760966666407936",
+        "conversation_id": "2073472227354538076",
+        "created_at": "2026-07-05T15:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073791835240370317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2072563311569412096",
+              "start": 0,
+              "username": "yiliubazhendeai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073791835240370317",
+        "in_reply_to_user_id": "2072563311569412096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073697162911989847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yiliubazhendeai 嘿嘿你不是呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072563311569412096",
+        "conversation_id": "2073472227354538076",
+        "created_at": "2026-07-05T09:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T10:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073697162911989847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1733760966666407936",
+              "start": 0,
+              "username": "ivanov80_i96326"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073697162911989847",
+        "in_reply_to_user_id": "1733760966666407936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073472227354538076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ivanov80_i96326 ？何意味，我也是人机吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "172:-(49kg 不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "location": "香港",
+        "name": "川長乙女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 475,
+          "like_count": 248,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 74
+        },
+        "url": "",
+        "username": "ivanov80_i96326",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-02T06:10:16.000Z",
+        "description": "其实我喜欢你，我不知道你有没有注意到我 当然眼里的喜欢是藏不住的 也许你只是这次表白可能太突然了 先别想着怎么拒绝我 这次表白我考虑了好久 哪怕做不了朋友，我向你表白也只是告诉你我对你的心意 请不要有心理负担 如果你能接受我当然是一件很高兴的事情 如果你拒绝了我 我也会坦然接受 毕竟每个人都会有喜欢的人",
+        "id": "2072563311569412096",
+        "name": "一六八真的矮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072565626338684928/TcwtiDOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 36,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "yiliubazhendeai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733760966666407936",
+    "conversation_id": "2065183282556277088",
+    "created_at": "2026-06-12T06:14:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T07:14:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065316678855221550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2037639533009780736",
+          "start": 0,
+          "username": "YuanQi43454"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065316678855221550",
+    "in_reply_to_user_id": "2037639533009780736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065183282556277088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuanQi43454 是！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2065183277531439104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKkBP8VWoAAbM_H.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065183279020404736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKkBQB4WcAApJgb.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065183276252147712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKkBP3kWMAAnsLT.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065183276243841025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKkBP3iXcAECQda.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733760966666407936",
+        "conversation_id": "2065183282556277088",
+        "created_at": "2026-06-12T06:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065316678855221550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2037639533009780736",
+              "start": 0,
+              "username": "YuanQi43454"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065316678855221550",
+        "in_reply_to_user_id": "2037639533009780736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065183282556277088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuanQi43454 是！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065183277531439104",
+            "3_2065183279020404736",
+            "3_2065183276252147712",
+            "3_2065183276243841025"
+          ]
+        },
+        "author_id": "2037639533009780736",
+        "conversation_id": "2065183282556277088",
+        "created_at": "2026-06-11T21:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T22:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065183282556277088"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "药娘"
+            },
+            {
+              "end": 17,
+              "start": 13,
+              "tag": "跨性别"
+            },
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "mtf"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "伪娘"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "男娘"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "人妖"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "跨女"
+            },
+            {
+              "end": 41,
+              "start": 39,
+              "tag": "糖"
+            },
+            {
+              "end": 46,
+              "start": 42,
+              "tag": "hrt"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "变性"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uXE9GNSYZ5",
+              "end": 74,
+              "expanded_url": "https://x.com/YuanQi43454/status/2065183282556277088/photo/1",
+              "media_key": "3_2065183277531439104",
+              "start": 51,
+              "url": "https://t.co/uXE9GNSYZ5"
+            },
+            {
+              "display_url": "pic.x.com/uXE9GNSYZ5",
+              "end": 74,
+              "expanded_url": "https://x.com/YuanQi43454/status/2065183282556277088/photo/1",
+              "media_key": "3_2065183279020404736",
+              "start": 51,
+              "url": "https://t.co/uXE9GNSYZ5"
+            },
+            {
+              "display_url": "pic.x.com/uXE9GNSYZ5",
+              "end": 74,
+              "expanded_url": "https://x.com/YuanQi43454/status/2065183282556277088/photo/1",
+              "media_key": "3_2065183276252147712",
+              "start": 51,
+              "url": "https://t.co/uXE9GNSYZ5"
+            },
+            {
+              "display_url": "pic.x.com/uXE9GNSYZ5",
+              "end": 74,
+              "expanded_url": "https://x.com/YuanQi43454/status/2065183282556277088/photo/1",
+              "media_key": "3_2065183276243841025",
+              "start": 51,
+              "url": "https://t.co/uXE9GNSYZ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065183282556277088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1122,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是天赋党药娘嘛 #药娘 #跨性别 #mtf #伪娘 #男娘 #人妖 #跨女 #糖 #hrt #变性 https://t.co/uXE9GNSYZ5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "172:-(49kg 黑皮&不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "location": "香港",
+        "name": "川長乙女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 365,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 50
+        },
+        "username": "ivanov80_i96326",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-27T21:16:08.000Z",
+        "description": "09年xyn～\n萝莉体型\n过🚪88\ntg：@wanyuan0908",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 21,
+                "username": "wanyuan0908"
+              }
+            ]
+          }
+        },
+        "id": "2037639533009780736",
+        "location": "袁州区",
+        "name": "宛圆🍥🏳️‍⚧️（中二病也要当mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049326102183915520/1LR_Teev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 5,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 27
+        },
+        "username": "YuanQi43454",
+        "verified": false
+      }
+    ]
+  }
+}

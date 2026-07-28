@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733760966666407936",
+    "conversation_id": "2045514554709590478",
+    "created_at": "2026-04-20T10:18:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T11:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046171632239288758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1729090153124376576",
+          "start": 0,
+          "username": "sallyOVO05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046171632239288758",
+    "in_reply_to_user_id": "1729090153124376576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045514554709590478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sallyOVO05 小奶猫"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2045511654260211712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGMeAxAaAAAcA_y.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733760966666407936",
+        "conversation_id": "2045514554709590478",
+        "created_at": "2026-04-20T10:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T11:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046171632239288758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1729090153124376576",
+              "start": 0,
+              "username": "sallyOVO05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046171632239288758",
+        "in_reply_to_user_id": "1729090153124376576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045514554709590478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sallyOVO05 小奶猫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045511654260211712"
+          ]
+        },
+        "author_id": "1729090153124376576",
+        "conversation_id": "2045514554709590478",
+        "created_at": "2026-04-18T14:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T15:35:58.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045511662946685210",
+          "2045514554709590478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YoLsIj5dL6",
+              "end": 110,
+              "expanded_url": "https://x.com/sallyOVO05/status/2045514554709590478/photo/1",
+              "media_key": "3_2045511654260211712",
+              "start": 87,
+              "url": "https://t.co/YoLsIj5dL6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045514554709590478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4348,
+          "like_count": 171,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "平时面无表情大家都会觉得我很凶很刻薄，不食人间烟火，相当于冷感保护色，但是真的和我接触过，你会觉得我是很好相处的人，软柿子，甚至有点m，有点好欺负，但是你欺负我依然会咬人😾 https://t.co/YoLsIj5dL6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "172:-(49kg 黑皮&不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "location": "香港",
+        "name": "川長乙女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 12,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "ivanov80_i96326",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-27T10:50:02.000Z",
+        "description": "是男孩子/05\n有什么想问的tg联系https://t.co/uWEHdlCpvu\n目前不会回复私信",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/sal00502",
+                "end": 41,
+                "expanded_url": "https://t.me/sal00502",
+                "start": 18,
+                "url": "https://t.co/uWEHdlCpvu"
+              }
+            ]
+          }
+        },
+        "id": "1729090153124376576",
+        "location": "重庆，成都🚪150 ",
+        "name": "Sally",
+        "pinned_tweet_id": "2007101408131309773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039239022497943552/vFE4Ra8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26779,
+          "following_count": 167,
+          "like_count": 1121,
+          "listed_count": 78,
+          "media_count": 198,
+          "tweet_count": 692
+        },
+        "username": "sallyOVO05",
+        "verified": true
+      }
+    ]
+  }
+}

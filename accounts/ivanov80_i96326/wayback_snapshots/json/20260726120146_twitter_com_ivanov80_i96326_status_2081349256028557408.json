@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733760966666407936",
+    "conversation_id": "2081349256028557408",
+    "created_at": "2026-07-26T12:01:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T13:01:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081349256028557408"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/iitztimmy_fake…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/iitztimmy_fake/status/2081229254742991051",
+          "start": 15,
+          "url": "https://t.co/1XGhWUl0Sn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081349256028557408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081229254742991051",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有人和我拍吗 拍完也不让回家 https://t.co/1XGhWUl0Sn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2081229242680115200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOIC-CoagAAHs6x.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733760966666407936",
+        "conversation_id": "2081349256028557408",
+        "created_at": "2026-07-26T12:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081349256028557408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iitztimmy_fake…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/iitztimmy_fake/status/2081229254742991051",
+              "start": 15,
+              "url": "https://t.co/1XGhWUl0Sn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081349256028557408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081229254742991051",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人和我拍吗 拍完也不让回家 https://t.co/1XGhWUl0Sn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081229242680115200"
+          ]
+        },
+        "author_id": "1357977098963611648",
+        "conversation_id": "2081229254742991051",
+        "created_at": "2026-07-26T04:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081229254742991051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W0UPjJrtr6",
+              "end": 45,
+              "expanded_url": "https://x.com/iiTzTimmy_fake/status/2081229254742991051/photo/1",
+              "media_key": "3_2081229242680115200",
+              "start": 22,
+              "url": "https://t.co/W0UPjJrtr6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081229254742991051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 24458,
+          "like_count": 374,
+          "quote_count": 1,
+          "reply_count": 90,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "好吧，经过我的教训，某人还是乖乖的干事了🥰 https://t.co/W0UPjJrtr6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "172:-(49kg 不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "location": "香港",
+        "name": "川長乙女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 513,
+          "like_count": 329,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 95
+        },
+        "url": "",
+        "username": "ivanov80_i96326",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-06T08:59:16.000Z",
+        "description": "Apex Legends  Player🎮 master |  le♀ |  Aviation enthusiasts｜photographer📷｜Sony α6100",
+        "id": "1357977098963611648",
+        "location": "Macau",
+        "name": "iitz_sora✈",
+        "pinned_tweet_id": "2079770258752352395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076588179180912640/XweR79BW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12208,
+          "following_count": 1446,
+          "like_count": 6275,
+          "listed_count": 29,
+          "media_count": 1311,
+          "tweet_count": 10349
+        },
+        "url": "",
+        "username": "iiTzTimmy_fake",
+        "verified": false
+      }
+    ]
+  }
+}

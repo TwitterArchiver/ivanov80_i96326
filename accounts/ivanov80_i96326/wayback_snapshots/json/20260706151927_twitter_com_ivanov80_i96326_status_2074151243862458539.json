@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733760966666407936",
+    "conversation_id": "2074091313239326738",
+    "created_at": "2026-07-06T15:19:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T16:19:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074151243862458539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1866155254406127616",
+          "start": 0,
+          "username": "HayakawaFeixue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074151243862458539",
+    "in_reply_to_user_id": "1866155254406127616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074091313239326738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HayakawaFeixue 好瘦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3602,
+        "media_key": "3_2074091301734400001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMinDMebQAE80EI.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733760966666407936",
+        "conversation_id": "2074091313239326738",
+        "created_at": "2026-07-06T15:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074151243862458539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1866155254406127616",
+              "start": 0,
+              "username": "HayakawaFeixue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074151243862458539",
+        "in_reply_to_user_id": "1866155254406127616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074091313239326738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HayakawaFeixue 好瘦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074091301734400001"
+          ]
+        },
+        "author_id": "1866155254406127616",
+        "conversation_id": "2074091313239326738",
+        "created_at": "2026-07-06T11:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T12:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074091313239326738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ve7ECT6pgy",
+              "end": 37,
+              "expanded_url": "https://x.com/HayakawaFeixue/status/2074091313239326738/photo/1",
+              "media_key": "3_2074091301734400001",
+              "start": 14,
+              "url": "https://t.co/ve7ECT6pgy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074091313239326738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "腿好像……比之前瘦一点了？ https://t.co/ve7ECT6pgy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "172:-(49kg 不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "location": "香港",
+        "name": "川長乙女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 478,
+          "like_count": 259,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 79
+        },
+        "url": "",
+        "username": "ivanov80_i96326",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T16:18:08.000Z",
+        "description": "出厂时间2007.05/小证2026.06.24/坐标上海/头像是oc/自介在置顶/小企鹅@whitecloud_ybw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "whitecloud_ybw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sayuki37995",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sayuki37995",
+                "start": 0,
+                "url": "https://t.co/J9EwxGm0Er"
+              }
+            ]
+          }
+        },
+        "id": "1866155254406127616",
+        "location": "Toshima-ku, Tokyo",
+        "name": "早川雪",
+        "pinned_tweet_id": "2066325659358818567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069094372499689472/bTeW2yPV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 630,
+          "like_count": 356,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 120
+        },
+        "url": "https://t.co/J9EwxGm0Er",
+        "username": "HayakawaFeixue",
+        "verified": false
+      }
+    ]
+  }
+}
