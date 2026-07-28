@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-28T18:34:28",
+  "last_updated": "2026-07-28T18:35:46",
   "html": {
     "https://web.archive.org/web/20260420101827if_/https://twitter.com/ivanov80_i96326/status/2046171632239288758": {
       "status": "done",
@@ -413,36 +413,36 @@
       "referenced_by": [
         "20260418083155_twitter_com_ivanov80_i96326_status_2045420044818297064.json"
       ],
-      "last_updated": "2026-07-28T18:33:14",
+      "last_updated": "2026-07-28T18:34:56",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260418083155/https://pbs.twimg.com/media/HGDIMGNa0AAQq07.jpg",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HGDIMGKaUAAz45D.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260418083155_twitter_com_ivanov80_i96326_status_2045420044818297064.json"
       ],
-      "last_updated": "2026-07-28T18:33:31",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260418083155im_/https://pbs.twimg.com/media/HGDIMGKaUAAz45D.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0d95f161b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-28T18:35:05",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260418083155/https://pbs.twimg.com/media/HGDIMGKaUAAz45D.jpg",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HGDIMGRbMAA9HzP.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260418083155_twitter_com_ivanov80_i96326_status_2045420044818297064.json"
       ],
-      "last_updated": "2026-07-28T18:33:36",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260418083155im_/https://pbs.twimg.com/media/HGDIMGRbMAA9HzP.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0d95f17e60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-28T18:35:11",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260418083155im_/https://pbs.twimg.com/media/HGDIMGRbMAA9HzP.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0bd290e090>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HGDIMGRaEAAS_nY.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260418083155_twitter_com_ivanov80_i96326_status_2045420044818297064.json"
       ],
-      "last_updated": "2026-07-28T18:33:41",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260418083155im_/https://pbs.twimg.com/media/HGDIMGRaEAAS_nY.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0d95f15dc0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-28T18:35:17",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260418083155im_/https://pbs.twimg.com/media/HGDIMGRaEAAS_nY.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0bd2934140>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HGMeAxAaAAAcA_y.jpg": {
       "status": "done",
@@ -564,13 +564,13 @@
       "last_updated": "2026-07-28T18:18:40"
     },
     "https://pbs.twimg.com/media/HInul1ca8AAMBDe.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260520071810_twitter_com_ivanov80_i96326_status_2056997896281858422.json"
       ],
-      "last_updated": "2026-07-28T18:33:17",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260520071810/https://pbs.twimg.com/media/HInul1ca8AAMBDe.jpg",
-      "miss_count": 2
+      "last_updated": "2026-07-28T18:35:22",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260520071810im_/https://pbs.twimg.com/media/HInul1ca8AAMBDe.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0bd29360f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HJFqStYagAE43Lh.jpg": {
       "status": "done",
@@ -648,40 +648,40 @@
       "last_updated": "2026-07-28T18:18:40"
     },
     "https://pbs.twimg.com/media/HKkBP8VWoAAbM_H.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260612061402_twitter_com_ivanov80_i96326_status_2065316678855221550.json"
       ],
-      "last_updated": "2026-07-28T18:33:13",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260612061402/https://pbs.twimg.com/media/HKkBP8VWoAAbM_H.jpg",
-      "miss_count": 2
+      "last_updated": "2026-07-28T18:35:27",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260612061402im_/https://pbs.twimg.com/media/HKkBP8VWoAAbM_H.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0bd2934890>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HKkBQB4WcAApJgb.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260612061402_twitter_com_ivanov80_i96326_status_2065316678855221550.json"
       ],
-      "last_updated": "2026-07-28T18:33:15",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260612061402/https://pbs.twimg.com/media/HKkBQB4WcAApJgb.jpg",
-      "miss_count": 2
+      "last_updated": "2026-07-28T18:35:32",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260612061402im_/https://pbs.twimg.com/media/HKkBQB4WcAApJgb.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0bd290fcb0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HKkBP3kWMAAnsLT.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260612061402_twitter_com_ivanov80_i96326_status_2065316678855221550.json"
       ],
-      "last_updated": "2026-07-28T18:33:45",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260612061402im_/https://pbs.twimg.com/media/HKkBP3kWMAAnsLT.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0d95f173e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-28T18:35:37",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260612061402im_/https://pbs.twimg.com/media/HKkBP3kWMAAnsLT.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0bd294ef30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HKkBP3iXcAECQda.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260612061402_twitter_com_ivanov80_i96326_status_2065316678855221550.json"
       ],
-      "last_updated": "2026-07-28T18:33:49",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260612061402im_/https://pbs.twimg.com/media/HKkBP3iXcAECQda.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0d95f40350>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-28T18:35:42",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260612061402im_/https://pbs.twimg.com/media/HKkBP3iXcAECQda.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0bd294fe60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HKh0KscboAAUCPh.jpg": {
       "status": "done",
@@ -901,13 +901,13 @@
       "last_updated": "2026-07-28T18:18:41"
     },
     "https://pbs.twimg.com/media/HMsiPPLbkAAay3J.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260708102555_twitter_com_ivanov80_i96326_status_2074802153059926226.json"
       ],
-      "last_updated": "2026-07-28T18:33:15",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260708102555/https://pbs.twimg.com/media/HMsiPPLbkAAay3J.jpg",
-      "miss_count": 2
+      "last_updated": "2026-07-28T18:35:46",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260708102555im_/https://pbs.twimg.com/media/HMsiPPLbkAAay3J.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0bd294eed0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HMtrZp_bMAADpI5.jpg": {
       "status": "done",
@@ -1958,7 +1958,7 @@
       "last_updated": "2026-07-28T18:19:44"
     },
     "20260520071810_twitter_com_ivanov80_i96326_status_2056997896281858422.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HInul1ca8AAMBDe.jpg"
@@ -1969,7 +1969,7 @@
           "https://pbs.twimg.com/profile_images/2009364605735170048/x_m4-ktV_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-28T18:33:17"
+      "last_updated": "2026-07-28T18:35:22"
     },
     "20260520081648_twitter_com_ivanov80_i96326_status_2057012654515142855.json": {
       "status": "done",
@@ -2726,7 +2726,7 @@
       "last_updated": "2026-07-28T18:19:45"
     },
     "20260708102555_twitter_com_ivanov80_i96326_status_2074802153059926226.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HMsiPPLbkAAay3J.jpg"
@@ -2737,7 +2737,7 @@
           "https://pbs.twimg.com/profile_images/1954617589378027520/wnVQW5km_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-28T18:33:15"
+      "last_updated": "2026-07-28T18:35:46"
     },
     "20260709085717_twitter_com_ivanov80_i96326_status_2075142234870370568.json": {
       "status": "done",
