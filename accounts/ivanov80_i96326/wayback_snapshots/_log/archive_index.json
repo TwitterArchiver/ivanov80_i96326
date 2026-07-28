@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-28T18:34:10",
+  "last_updated": "2026-07-28T18:34:28",
   "html": {
     "https://web.archive.org/web/20260420101827if_/https://twitter.com/ivanov80_i96326/status/2046171632239288758": {
       "status": "done",
@@ -1171,13 +1171,13 @@
       "last_updated": "2026-07-28T18:19:45"
     },
     "https://pbs.twimg.com/profile_images/2039262837353447424/msbymfsg_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260428105556_twitter_com_ivanov80_i96326_status_2049080166618734625.json"
       ],
-      "last_updated": "2026-07-28T18:19:52",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260428105556if_/https://pbs.twimg.com/profile_images/2039262837353447424/msbymfsg_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe9b0268fe0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-28T18:34:28",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260428105556if_/https://pbs.twimg.com/profile_images/2039262837353447424/msbymfsg_normal.jpg",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1993291695631613952/sGYlXa20_normal.jpg": {
       "status": "done",
@@ -1715,7 +1715,7 @@
       "last_updated": "2026-07-28T18:19:44"
     },
     "20260428105556_twitter_com_ivanov80_i96326_status_2049080166618734625.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -1724,7 +1724,7 @@
           "https://pbs.twimg.com/profile_images/2039262837353447424/msbymfsg_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-28T18:34:05",
+      "last_updated": "2026-07-28T18:34:28",
       "miss_count": 2
     },
     "20260428105616_twitter_com_ivanov80_i96326_status_2049080249846235647.json": {
