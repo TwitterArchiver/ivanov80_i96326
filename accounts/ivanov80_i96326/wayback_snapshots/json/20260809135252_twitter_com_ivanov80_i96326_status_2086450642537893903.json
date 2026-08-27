@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733760966666407936",
+    "conversation_id": "2086069043484864887",
+    "created_at": "2026-08-09T13:52:52.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T14:52:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086450642537893903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1964335711521558531",
+          "start": 0,
+          "username": "bbkk23333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086450642537893903",
+    "in_reply_to_user_id": "1964335711521558531",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086109270928679320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbkk23333 耐你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733760966666407936",
+        "conversation_id": "2086069043484864887",
+        "created_at": "2026-08-09T13:52:52.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T14:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086450642537893903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1964335711521558531",
+              "start": 0,
+              "username": "bbkk23333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086450642537893903",
+        "in_reply_to_user_id": "1964335711521558531",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086109270928679320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbkk23333 耐你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964335711521558531",
+        "conversation_id": "2086069043484864887",
+        "created_at": "2026-08-08T15:16:22.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T16:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086109270928679320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1733760966666407936",
+              "start": 0,
+              "username": "ivanov80_i96326"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086109270928679320",
+        "in_reply_to_user_id": "1733760966666407936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086069043484864887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ivanov80_i96326 可爱喵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "172:-(49kg 不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2086450642537893903",
+        "name": "川長乙女",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733760966666407936/1776187077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 543,
+          "like_count": 399,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 112
+        },
+        "url": "",
+        "username": "ivanov80_i96326",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:32:23.000Z",
+        "description": "我喜欢你喵🏳️‍⚧️\n网络小宠物喵，假期24小时中强度刷推\n≽^ ⦁ ⩊ ⦁ ^≼",
+        "id": "1964335711521558531",
+        "is_identity_verified": false,
+        "location": "垃圾桶旁边的纸箱",
+        "most_recent_tweet_id": "2086439990217875630",
+        "name": "沐雨喵~",
+        "pinned_tweet_id": "2069381811596386570",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964335711521558531/1782619746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065840419745972224/rCDljDbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1798,
+          "following_count": 474,
+          "like_count": 6612,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 3097
+        },
+        "url": "",
+        "username": "bbkk23333",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733760966666407936",
+    "conversation_id": "2084286006195630085",
+    "created_at": "2026-08-03T15:40:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T16:40:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084303457775972613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1785934382391508992",
+          "start": 0,
+          "username": "qiongmei279981"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084303457775972613",
+    "in_reply_to_user_id": "1785934382391508992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084286006195630085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiongmei279981 可耐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2084285100804755456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzeQZQbUAAvrv3.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733760966666407936",
+        "conversation_id": "2084286006195630085",
+        "created_at": "2026-08-03T15:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T16:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084303457775972613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1785934382391508992",
+              "start": 0,
+              "username": "qiongmei279981"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084303457775972613",
+        "in_reply_to_user_id": "1785934382391508992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084286006195630085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiongmei279981 可耐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084285100804755456"
+          ]
+        },
+        "author_id": "1785934382391508992",
+        "conversation_id": "2084286006195630085",
+        "created_at": "2026-08-03T14:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084286006195630085"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "男娘"
+            },
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "男の娘"
+            },
+            {
+              "end": 21,
+              "start": 14,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NSVGh4TQZK",
+              "end": 45,
+              "expanded_url": "https://x.com/qiongmei279981/status/2084286006195630085/photo/1",
+              "media_key": "3_2084285100804755456",
+              "start": 22,
+              "url": "https://t.co/NSVGh4TQZK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084286006195630085",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 463,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "^ω^\n #男娘 #男の娘 #可爱的男孩子 https://t.co/NSVGh4TQZK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "172:-(49kg 不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "location": "香港",
+        "name": "川長乙女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 542,
+          "like_count": 371,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 106
+        },
+        "url": "",
+        "username": "ivanov80_i96326",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-02T07:28:42.000Z",
+        "description": "小男娘|165cm45kg|qq:3260097364",
+        "id": "1785934382391508992",
+        "name": "穹穹",
+        "pinned_tweet_id": "2059597466518065256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054885185926438913/wWqEo3rz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2215,
+          "following_count": 38,
+          "like_count": 156,
+          "listed_count": 10,
+          "media_count": 33,
+          "tweet_count": 52
+        },
+        "url": "",
+        "username": "qiongmei279981",
+        "verified": false
+      }
+    ]
+  }
+}

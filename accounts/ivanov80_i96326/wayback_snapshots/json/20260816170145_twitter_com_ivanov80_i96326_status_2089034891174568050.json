@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733760966666407936",
+    "conversation_id": "2088632094729933153",
+    "created_at": "2026-08-16T17:01:45.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T18:01:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089034891174568050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1408978143377956866",
+          "start": 0,
+          "username": "xingzi0878"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089034891174568050",
+    "in_reply_to_user_id": "1408978143377956866",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088654906664350004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingzi0878 豪！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733760966666407936",
+        "conversation_id": "2088632094729933153",
+        "created_at": "2026-08-16T17:01:45.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T18:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089034891174568050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1408978143377956866",
+              "start": 0,
+              "username": "xingzi0878"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089034891174568050",
+        "in_reply_to_user_id": "1408978143377956866",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088654906664350004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingzi0878 豪！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1408978143377956866",
+        "conversation_id": "2088632094729933153",
+        "created_at": "2026-08-15T15:51:49.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088654906664350004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1733760966666407936",
+              "start": 0,
+              "username": "ivanov80_i96326"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088654906664350004",
+        "in_reply_to_user_id": "1733760966666407936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088632094729933153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ivanov80_i96326 退了换大一码"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "172:-(49kg 不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2089034891174568050",
+        "name": "川長乙女",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733760966666407936/1776187077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 569,
+          "like_count": 451,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 123
+        },
+        "url": "",
+        "username": "ivanov80_i96326",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-27T02:39:08.000Z",
+        "description": "22岁，性取向是女性恋，从来没有谈过对象，脾气很好，欢迎小可爱们找我聊天，很大一只，正在努力改变自己，喜欢所有可爱的东西，玉桂狗重度依赖，平时上班忙常年不更新，希望自己有一天也能变的和关注的宝宝们一样可爱",
+        "id": "1408978143377956866",
+        "is_identity_verified": false,
+        "location": "鸡窝托斯",
+        "most_recent_tweet_id": "2089025350361878818",
+        "name": "杏梓🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1408978143377956866/1771555145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962903118204547072/dJ6amwUG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 332,
+          "like_count": 599,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 103
+        },
+        "url": "",
+        "username": "xingzi0878",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

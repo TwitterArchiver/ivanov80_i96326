@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733760966666407936",
+    "conversation_id": "2087232295023632583",
+    "created_at": "2026-08-11T17:38:52.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T18:38:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087232295023632583"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/texiusizhichua…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/texiusizhichuan/status/2087058050649915655",
+          "start": 10,
+          "url": "https://t.co/OnlPGJ7ANL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087232295023632583",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087058050649915655",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有人给我发5.2嘛 https://t.co/OnlPGJ7ANL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087058046203895808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPa4PD2aoAAWCDC.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733760966666407936",
+        "conversation_id": "2087232295023632583",
+        "created_at": "2026-08-11T17:38:52.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T18:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087232295023632583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/texiusizhichua…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/texiusizhichuan/status/2087058050649915655",
+              "start": 10,
+              "url": "https://t.co/OnlPGJ7ANL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087232295023632583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087058050649915655",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人给我发5.2嘛 https://t.co/OnlPGJ7ANL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087058046203895808"
+          ]
+        },
+        "author_id": "2059475041126055936",
+        "conversation_id": "2087058050649915655",
+        "created_at": "2026-08-11T06:06:29.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T07:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087058050649915655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mPu9Qnc4NT",
+              "end": 34,
+              "expanded_url": "https://x.com/Texiusizhichuan/status/2087058050649915655/photo/1",
+              "media_key": "3_2087058046203895808",
+              "start": 11,
+              "url": "https://t.co/mPu9Qnc4NT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087058050649915655",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087058046203895808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 317,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去，这是哪个好心人 https://t.co/mPu9Qnc4NT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "172:-(49kg 不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2087232295023632583",
+        "name": "川長乙女",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733760966666407936/1776187077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 555,
+          "like_count": 412,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 116
+        },
+        "url": "",
+        "username": "ivanov80_i96326",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了机器人和恶心人）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "is_identity_verified": false,
+        "location": "在哪都行",
+        "most_recent_tweet_id": "2087058050649915655",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2079459514944983462",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059475041126055936/1785212687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084432177123717120/4n6tGQgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 395,
+          "like_count": 24395,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 1321
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

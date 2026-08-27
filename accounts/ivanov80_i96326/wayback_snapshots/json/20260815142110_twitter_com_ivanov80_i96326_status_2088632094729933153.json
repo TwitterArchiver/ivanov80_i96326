@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088632085460525056"
+      ]
+    },
+    "author_id": "1733760966666407936",
+    "conversation_id": "2088632094729933153",
+    "created_at": "2026-08-15T14:21:10.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T15:21:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088632094729933153"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VHZjRxNoab",
+          "end": 61,
+          "expanded_url": "https://x.com/ivanov80_i96326/status/2088632094729933153/photo/1",
+          "media_key": "3_2088632085460525056",
+          "start": 38,
+          "url": "https://t.co/VHZjRxNoab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088632094729933153",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088632085460525056"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新的一套裙子 感觉有点勒腰呢\n要退还是要留 好难抉择呀！ 快帮我决定一下😭 https://t.co/VHZjRxNoab"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088632085460525056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxP0NBboAAJN0t.jpg",
+        "width": 1175
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088632085460525056"
+          ]
+        },
+        "author_id": "1733760966666407936",
+        "conversation_id": "2088632094729933153",
+        "created_at": "2026-08-15T14:21:10.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T15:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088632094729933153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VHZjRxNoab",
+              "end": 61,
+              "expanded_url": "https://x.com/ivanov80_i96326/status/2088632094729933153/photo/1",
+              "media_key": "3_2088632085460525056",
+              "start": 38,
+              "url": "https://t.co/VHZjRxNoab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088632094729933153",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088632085460525056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新的一套裙子 感觉有点勒腰呢\n要退还是要留 好难抉择呀！ 快帮我决定一下😭 https://t.co/VHZjRxNoab"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "172:-(49kg 不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2088632094729933153",
+        "name": "川長乙女",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733760966666407936/1776187077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 554,
+          "like_count": 424,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 119
+        },
+        "url": "",
+        "username": "ivanov80_i96326",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

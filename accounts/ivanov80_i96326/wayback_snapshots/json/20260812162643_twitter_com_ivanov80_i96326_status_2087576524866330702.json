@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087215191410999296"
+      ],
+      "media_source_tweet_id": [
+        "2087215209954017574"
+      ]
+    },
+    "author_id": "1733760966666407936",
+    "conversation_id": "2087576524866330702",
+    "created_at": "2026-08-12T16:26:43.000Z",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T17:26:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087576524866330702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1964335711521558531",
+          "start": 3,
+          "username": "bbkk23333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YNBEv9sZ7B",
+          "end": 75,
+          "expanded_url": "https://x.com/bbkk23333/status/2087215209954017574/photo/1",
+          "media_key": "3_2087215191410999296",
+          "start": 52,
+          "url": "https://t.co/YNBEv9sZ7B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087576524866330702",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087215191410999296"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087215209954017574",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bbkk23333: 怎么我发其他内容都不火喵，偏偏发萝莉怎么火？我的粉丝都是萝莉控吗喵😡😡😡 https://t.co/YNBEv9sZ7B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1028,
+        "media_key": "3_2087215191410999296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPdHKHXaAAAhpFD.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087215191410999296"
+          ]
+        },
+        "author_id": "1964335711521558531",
+        "conversation_id": "2087215209954017574",
+        "created_at": "2026-08-11T16:30:59.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T17:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087215209954017574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YNBEv9sZ7B",
+              "end": 60,
+              "expanded_url": "https://x.com/bbkk23333/status/2087215209954017574/photo/1",
+              "media_key": "3_2087215191410999296",
+              "start": 37,
+              "url": "https://t.co/YNBEv9sZ7B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087215209954017574",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087215191410999296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 5624,
+          "like_count": 283,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "怎么我发其他内容都不火喵，偏偏发萝莉怎么火？我的粉丝都是萝莉控吗喵😡😡😡 https://t.co/YNBEv9sZ7B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087215191410999296"
+          ],
+          "media_source_tweet_id": [
+            "2087215209954017574"
+          ]
+        },
+        "author_id": "1733760966666407936",
+        "conversation_id": "2087576524866330702",
+        "created_at": "2026-08-12T16:26:43.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T17:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087576524866330702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964335711521558531",
+              "start": 3,
+              "username": "bbkk23333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YNBEv9sZ7B",
+              "end": 75,
+              "expanded_url": "https://x.com/bbkk23333/status/2087215209954017574/photo/1",
+              "media_key": "3_2087215191410999296",
+              "start": 52,
+              "url": "https://t.co/YNBEv9sZ7B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087576524866330702",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087215191410999296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087215209954017574",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bbkk23333: 怎么我发其他内容都不火喵，偏偏发萝莉怎么火？我的粉丝都是萝莉控吗喵😡😡😡 https://t.co/YNBEv9sZ7B"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "172:-(49kg 不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2087576545158385928",
+        "name": "川長乙女",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733760966666407936/1776187077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 556,
+          "like_count": 414,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 118
+        },
+        "url": "",
+        "username": "ivanov80_i96326",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:32:23.000Z",
+        "description": "我喜欢你喵🏳️‍⚧️\n网络小宠物喵，假期24小时中强度刷推\n买糖🍬/药物咨询🍥\nqq1621320515 微信admin22334",
+        "id": "1964335711521558531",
+        "is_identity_verified": false,
+        "location": "垃圾桶旁边的纸箱",
+        "most_recent_tweet_id": "2087570999298650522",
+        "name": "沐雨喵~",
+        "pinned_tweet_id": "2069381811596386570",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964335711521558531/1782619746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065840419745972224/rCDljDbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1927,
+          "following_count": 488,
+          "like_count": 6885,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 3212
+        },
+        "url": "",
+        "username": "bbkk23333",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

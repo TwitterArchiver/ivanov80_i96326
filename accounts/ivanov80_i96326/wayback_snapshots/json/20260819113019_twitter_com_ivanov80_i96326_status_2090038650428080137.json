@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090038637790707712"
+      ]
+    },
+    "author_id": "1733760966666407936",
+    "conversation_id": "2090038650428080137",
+    "created_at": "2026-08-19T11:30:19.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T12:30:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090038650428080137"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xuYL4ZKOQx",
+          "end": 53,
+          "expanded_url": "https://x.com/ivanov80_i96326/status/2090038650428080137/photo/1",
+          "media_key": "3_2090038637790707712",
+          "start": 30,
+          "url": "https://t.co/xuYL4ZKOQx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090038650428080137",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090038637790707712"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嘿嘿七夕礼物\n路过的药娘宝宝一人只能拿一盒哦\n拿了喵一声～ https://t.co/xuYL4ZKOQx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090038637790707712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFPEUxbQAAgeFG.jpg",
+        "width": 1212
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090038637790707712"
+          ]
+        },
+        "author_id": "1733760966666407936",
+        "conversation_id": "2090038650428080137",
+        "created_at": "2026-08-19T11:30:19.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T12:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090038650428080137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xuYL4ZKOQx",
+              "end": 53,
+              "expanded_url": "https://x.com/ivanov80_i96326/status/2090038650428080137/photo/1",
+              "media_key": "3_2090038637790707712",
+              "start": 30,
+              "url": "https://t.co/xuYL4ZKOQx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090038650428080137",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090038637790707712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘿嘿七夕礼物\n路过的药娘宝宝一人只能拿一盒哦\n拿了喵一声～ https://t.co/xuYL4ZKOQx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "172:-(49kg 不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2090038650428080137",
+        "name": "川長乙女",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733760966666407936/1776187077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 589,
+          "like_count": 516,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 139
+        },
+        "url": "",
+        "username": "ivanov80_i96326",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

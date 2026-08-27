@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082109649135005696"
+      ]
+    },
+    "author_id": "1733760966666407936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2082109663479566413",
+    "created_at": "2026-07-28T14:23:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T15:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082109663479566413"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QTb8tezFtK",
+          "end": 84,
+          "expanded_url": "https://x.com/ivanov80_i96326/status/2082109663479566413/photo/1",
+          "media_key": "3_2082109649135005696",
+          "start": 61,
+          "url": "https://t.co/QTb8tezFtK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082109663479566413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喂鲨鲨喝奶哩-咿呀奇怪鲨鲨怎么不喝哩\n可恶的鲨鲨不仅不喝还撒到我的凉席上了\n喜报这次奶量是20ml啦 鲨鲨不喝只能倒掉哩 https://t.co/QTb8tezFtK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082109649135005696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUjscQa8AA2HCJ.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082109649135005696"
+          ]
+        },
+        "author_id": "1733760966666407936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2082109663479566413",
+        "created_at": "2026-07-28T14:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082109663479566413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QTb8tezFtK",
+              "end": 84,
+              "expanded_url": "https://x.com/ivanov80_i96326/status/2082109663479566413/photo/1",
+              "media_key": "3_2082109649135005696",
+              "start": 61,
+              "url": "https://t.co/QTb8tezFtK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082109663479566413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喂鲨鲨喝奶哩-咿呀奇怪鲨鲨怎么不喝哩\n可恶的鲨鲨不仅不喝还撒到我的凉席上了\n喜报这次奶量是20ml啦 鲨鲨不喝只能倒掉哩 https://t.co/QTb8tezFtK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "172:-(49kg 不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "location": "香港",
+        "name": "川長乙女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 527,
+          "like_count": 338,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 99
+        },
+        "url": "",
+        "username": "ivanov80_i96326",
+        "verified": false
+      }
+    ]
+  }
+}

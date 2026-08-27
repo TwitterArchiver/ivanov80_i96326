@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733760966666407936",
+    "conversation_id": "2089824796301578603",
+    "created_at": "2026-08-19T11:34:23.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T12:34:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090039671439134805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2042902564048355328",
+          "start": 0,
+          "username": "TTTypezhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090039671439134805",
+    "in_reply_to_user_id": "2042902564048355328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089824796301578603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TTTypezhi 不哭抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733760966666407936",
+        "conversation_id": "2089824796301578603",
+        "created_at": "2026-08-19T11:34:23.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T12:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090039671439134805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042902564048355328",
+              "start": 0,
+              "username": "TTTypezhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090039671439134805",
+        "in_reply_to_user_id": "2042902564048355328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089824796301578603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TTTypezhi 不哭抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042902564048355328",
+        "conversation_id": "2089824796301578603",
+        "created_at": "2026-08-18T21:20:33.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T22:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089824796301578603"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089824796301578603",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 902,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好缺爱想哭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "172:-(49kg 不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2090039671439134805",
+        "name": "川長乙女",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733760966666407936/1776187077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 589,
+          "like_count": 521,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 140
+        },
+        "url": "",
+        "username": "ivanov80_i96326",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-11T09:48:33.000Z",
+        "description": "全世界最好的小女孩/She.Her/17岁的小笨蛋🥺/🎂2009.3.7/🍥:2025.1.9/RLE时间太长不记得了😢/有大证/不割手od/家长不支持/💰打工攒钱SRS中.../💀死了五个号/❌线下/努力生活中喵...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zinet.top",
+                "end": 23,
+                "expanded_url": "https://zinet.top",
+                "start": 0,
+                "url": "https://t.co/tc7gn1vBTW"
+              }
+            ]
+          }
+        },
+        "id": "2042902564048355328",
+        "is_identity_verified": false,
+        "location": "你家",
+        "most_recent_tweet_id": "2089824796301578603",
+        "name": "知式（四代目）🍥🏳️‍⚧️",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042902713881731072/m36bwUKf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 435,
+          "like_count": 32,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 129
+        },
+        "url": "https://t.co/tc7gn1vBTW",
+        "username": "TTTypezhi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

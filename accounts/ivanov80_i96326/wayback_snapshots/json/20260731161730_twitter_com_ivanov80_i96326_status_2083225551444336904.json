@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082879354200326144"
+      ],
+      "media_source_tweet_id": [
+        "2082879364669358188"
+      ]
+    },
+    "author_id": "1733760966666407936",
+    "conversation_id": "2083225551444336904",
+    "created_at": "2026-07-31T16:17:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T17:17:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083225551444336904"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 22,
+          "tag": "女仆装"
+        },
+        {
+          "end": 30,
+          "start": 27,
+          "tag": "男娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1806921077471535104",
+          "start": 3,
+          "username": "FIGHTG367"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wcTOoQls8b",
+          "end": 54,
+          "expanded_url": "https://x.com/FIGHTG367/status/2082879364669358188/photo/1",
+          "media_key": "3_2082879354200326144",
+          "start": 31,
+          "url": "https://t.co/wcTOoQls8b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083225551444336904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082879364669358188",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FIGHTG367: 帅女仆肥肥肥 #女仆装 #男娘 https://t.co/wcTOoQls8b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1730,
+        "media_key": "3_2082879354200326144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOffvLEbAAAmcKO.jpg",
+        "width": 1317
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082879354200326144"
+          ]
+        },
+        "author_id": "1806921077471535104",
+        "conversation_id": "2082879364669358188",
+        "created_at": "2026-07-30T17:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T18:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082879364669358188"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 7,
+              "tag": "女仆装"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wcTOoQls8b",
+              "end": 39,
+              "expanded_url": "https://x.com/FIGHTG367/status/2082879364669358188/photo/1",
+              "media_key": "3_2082879354200326144",
+              "start": 16,
+              "url": "https://t.co/wcTOoQls8b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082879364669358188",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 9361,
+          "like_count": 621,
+          "quote_count": 0,
+          "reply_count": 39,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "帅女仆肥肥肥 #女仆装 #男娘 https://t.co/wcTOoQls8b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082879354200326144"
+          ],
+          "media_source_tweet_id": [
+            "2082879364669358188"
+          ]
+        },
+        "author_id": "1733760966666407936",
+        "conversation_id": "2083225551444336904",
+        "created_at": "2026-07-31T16:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083225551444336904"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "女仆装"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "男娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1806921077471535104",
+              "start": 3,
+              "username": "FIGHTG367"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wcTOoQls8b",
+              "end": 54,
+              "expanded_url": "https://x.com/FIGHTG367/status/2082879364669358188/photo/1",
+              "media_key": "3_2082879354200326144",
+              "start": 31,
+              "url": "https://t.co/wcTOoQls8b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083225551444336904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082879364669358188",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FIGHTG367: 帅女仆肥肥肥 #女仆装 #男娘 https://t.co/wcTOoQls8b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "172:-(49kg 不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "location": "香港",
+        "name": "川長乙女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 527,
+          "like_count": 352,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 102
+        },
+        "url": "",
+        "username": "ivanov80_i96326",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T05:22:33.000Z",
+        "description": "🍥05年xnn喵😼｜🍥深度结晶雏草姬一只😽😽😽｜🍥一只m喵喜欢绳艺但苦手😿😿😿｜🍥梦想变得越来越可爱喵！",
+        "id": "1806921077471535104",
+        "location": "嘻嘻😁",
+        "name": "永雏萌点虾🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927558303610986496/g21aGpeI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 634,
+          "like_count": 251,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 69
+        },
+        "url": "",
+        "username": "FIGHTG367",
+        "verified": false
+      }
+    ]
+  }
+}

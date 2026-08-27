@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090826090277380096"
+      ]
+    },
+    "author_id": "1733760966666407936",
+    "conversation_id": "2090826106052218893",
+    "created_at": "2026-08-21T15:39:24.000Z",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T16:39:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090826106052218893"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 21,
+          "tag": "药娘"
+        },
+        {
+          "end": 28,
+          "start": 25,
+          "tag": "女装"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tFYharxv06",
+          "end": 52,
+          "expanded_url": "https://x.com/ivanov80_i96326/status/2090826106052218893/photo/1",
+          "media_key": "3_2090826090277380096",
+          "start": 29,
+          "url": "https://t.co/tFYharxv06"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090826106052218893",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090826090277380096"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很萌的同时感觉傻……（路过的轻轻打一拳 \n#药娘 #女装 https://t.co/tFYharxv06"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2090826090277380096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQbQF4aIAASIbE.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090826090277380096"
+          ]
+        },
+        "author_id": "1733760966666407936",
+        "conversation_id": "2090826106052218893",
+        "created_at": "2026-08-21T15:39:24.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T16:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090826106052218893"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "药娘"
+            },
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "女装"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tFYharxv06",
+              "end": 52,
+              "expanded_url": "https://x.com/ivanov80_i96326/status/2090826106052218893/photo/1",
+              "media_key": "3_2090826090277380096",
+              "start": 29,
+              "url": "https://t.co/tFYharxv06"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090826106052218893",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090826090277380096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很萌的同时感觉傻……（路过的轻轻打一拳 \n#药娘 #女装 https://t.co/tFYharxv06"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "172:-(49kg 不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2090826106052218893",
+        "name": "川長乙女",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733760966666407936/1776187077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 604,
+          "like_count": 541,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 144
+        },
+        "url": "",
+        "username": "ivanov80_i96326",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
