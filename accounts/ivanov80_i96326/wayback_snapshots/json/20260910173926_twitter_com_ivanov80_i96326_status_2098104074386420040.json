@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733760966666407936",
+    "conversation_id": "2098104074386420040",
+    "created_at": "2026-09-10T17:39:26.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T18:39:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098104074386420040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1759554901695197184",
+          "start": 3,
+          "username": "aidenread1250"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098104074386420040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1514
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097340538425057313",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aidenread1250: 这个视频最近看不少人在发，想想如果换成两只男娘小狗会更有意思：\n“乖乖你想和他玩吗，想就摇摇屁股”\n一只小狗摇摇屁股，然后被解开项圈，两只男娘小狗就凑一块互相蹭。\n过一会其中一只男娘小狗回来一个劲地蹭主人，主人想了想，给他打开贞操锁，小狗就…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8104,
+        "height": 1280,
+        "media_key": "13_2097340503587233792",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097340503587233792/img/p1rVf1WVYECD4K07.jpg",
+        "public_metrics": {
+          "view_count": 642722
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097340503587233792/vid/avc1/320x568/iaKoNrGu6PXIXm4x.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097340503587233792/vid/avc1/480x852/kxB6kCfNEzBjj-5J.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097340503587233792/vid/avc1/720x1280/9I2WpEwIMPpjmu6t.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097340503587233792/pl/QSZySjXy-HpDgAWN.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733760966666407936",
+        "conversation_id": "2098104074386420040",
+        "created_at": "2026-09-10T17:39:26.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T18:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098104074386420040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1759554901695197184",
+              "start": 3,
+              "username": "aidenread1250"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098104074386420040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1514
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097340538425057313",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aidenread1250: 这个视频最近看不少人在发，想想如果换成两只男娘小狗会更有意思：\n“乖乖你想和他玩吗，想就摇摇屁股”\n一只小狗摇摇屁股，然后被解开项圈，两只男娘小狗就凑一块互相蹭。\n过一会其中一只男娘小狗回来一个劲地蹭主人，主人想了想，给他打开贞操锁，小狗就…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097340503587233792"
+          ]
+        },
+        "author_id": "1759554901695197184",
+        "conversation_id": "2097340538425057313",
+        "created_at": "2026-09-08T15:05:25.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T16:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097340538425057313"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "男娘"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "调教"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "雌堕"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DWS29lOSpw",
+              "end": 168,
+              "expanded_url": "https://x.com/aidenread1250/status/2097340538425057313/video/1",
+              "media_key": "13_2097340503587233792",
+              "start": 145,
+              "url": "https://t.co/DWS29lOSpw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097340538425057313",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2097340503587233792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10491,
+          "impression_count": 1226422,
+          "like_count": 28377,
+          "quote_count": 86,
+          "reply_count": 420,
+          "retweet_count": 1514
+        },
+        "reply_settings": "everyone",
+        "text": "这个视频最近看不少人在发，想想如果换成两只男娘小狗会更有意思：\n“乖乖你想和他玩吗，想就摇摇屁股”\n一只小狗摇摇屁股，然后被解开项圈，两只男娘小狗就凑一块互相蹭。\n过一会其中一只男娘小狗回来一个劲地蹭主人，主人想了想，给他打开贞操锁，小狗就兴奋地扑上去艹另一只小狗。#男娘 #调教 #雌堕 https://t.co/DWS29lOSpw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "172:-(49kg 不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2098104074386420040",
+        "name": "川長乙女",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733760966666407936/1776187077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 642,
+          "like_count": 623,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 170
+        },
+        "url": "",
+        "username": "ivanov80_i96326",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-19T12:26:01.000Z",
+        "description": "30+大叔，xp是可爱的男娘m小狗（想拥有一只可惜现实没条件），纯兴趣写文来抒发欲望，拒绝文爱网调及线下，不定制不接稿不爱写BE",
+        "id": "1759554901695197184",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098066708456239465",
+        "name": "AidenMess",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043964458217943042/QzqAaBTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1448,
+          "following_count": 287,
+          "like_count": 29,
+          "listed_count": 4,
+          "media_count": 5,
+          "tweet_count": 44
+        },
+        "url": "",
+        "username": "aidenread1250",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098472128731574272"
+      ]
+    },
+    "author_id": "1733760966666407936",
+    "conversation_id": "2098472151947088055",
+    "created_at": "2026-09-11T18:02:03.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T19:02:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098472151947088055"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 34,
+          "tag": "女装"
+        },
+        {
+          "end": 41,
+          "start": 38,
+          "tag": "伪娘"
+        },
+        {
+          "end": 45,
+          "start": 42,
+          "tag": "药娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/feOqKgaB5m",
+          "end": 69,
+          "expanded_url": "https://x.com/ivanov80_i96326/status/2098472151947088055/photo/1",
+          "media_key": "3_2098472128731574272",
+          "start": 46,
+          "url": "https://t.co/feOqKgaB5m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098472151947088055",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098472128731574272"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一张绿毛库存～\n漂了两三次头发都快掉光光了\n感觉头发像枯草一样……\n#女装 #伪娘 #药娘 https://t.co/feOqKgaB5m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1883,
+        "media_key": "3_2098472128731574272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR9FSGwacAAvYfE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098472128731574272"
+          ]
+        },
+        "author_id": "1733760966666407936",
+        "conversation_id": "2098472151947088055",
+        "created_at": "2026-09-11T18:02:03.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T19:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098472151947088055"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "女装"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "伪娘"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "药娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/feOqKgaB5m",
+              "end": 69,
+              "expanded_url": "https://x.com/ivanov80_i96326/status/2098472151947088055/photo/1",
+              "media_key": "3_2098472128731574272",
+              "start": 46,
+              "url": "https://t.co/feOqKgaB5m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098472151947088055",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098472128731574272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一张绿毛库存～\n漂了两三次头发都快掉光光了\n感觉头发像枯草一样……\n#女装 #伪娘 #药娘 https://t.co/feOqKgaB5m"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "172:-(49kg 不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2098472151947088055",
+        "name": "川長乙女",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733760966666407936/1776187077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 644,
+          "like_count": 637,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 176
+        },
+        "url": "",
+        "username": "ivanov80_i96326",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

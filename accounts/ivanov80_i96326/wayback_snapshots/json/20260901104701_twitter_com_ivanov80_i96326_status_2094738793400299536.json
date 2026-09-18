@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094738778489532416"
+      ]
+    },
+    "author_id": "1733760966666407936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2094738793400299536",
+    "created_at": "2026-09-01T10:47:01.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T11:47:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094738793400299536"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 56,
+          "start": 53,
+          "tag": "药娘"
+        },
+        {
+          "end": 60,
+          "start": 57,
+          "tag": "吃播"
+        },
+        {
+          "end": 64,
+          "start": 61,
+          "tag": "泌乳"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7a869ijhep",
+          "end": 88,
+          "expanded_url": "https://x.com/ivanov80_i96326/status/2094738793400299536/photo/1",
+          "media_key": "3_2094738778489532416",
+          "start": 65,
+          "url": "https://t.co/7a869ijhep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094738793400299536",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094738778489532416"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁懂这一口🤤用自己的奶水泡米饭吃 \n简直仙品 后面还加了炼乳 特别是米饭被奶水泡得膨胀变大真的好好吃呀😭\n#药娘 #吃播 #泌乳 https://t.co/7a869ijhep"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094738778489532416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRIB0hUasAA39zp.jpg",
+        "width": 1630
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094738778489532416"
+          ]
+        },
+        "author_id": "1733760966666407936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2094738793400299536",
+        "created_at": "2026-09-01T10:47:01.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T11:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094738793400299536"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "药娘"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "吃播"
+            },
+            {
+              "end": 64,
+              "start": 61,
+              "tag": "泌乳"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7a869ijhep",
+              "end": 88,
+              "expanded_url": "https://x.com/ivanov80_i96326/status/2094738793400299536/photo/1",
+              "media_key": "3_2094738778489532416",
+              "start": 65,
+              "url": "https://t.co/7a869ijhep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094738793400299536",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094738778489532416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁懂这一口🤤用自己的奶水泡米饭吃 \n简直仙品 后面还加了炼乳 特别是米饭被奶水泡得膨胀变大真的好好吃呀😭\n#药娘 #吃播 #泌乳 https://t.co/7a869ijhep"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "172:-(49kg 不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2094738793400299536",
+        "name": "川長乙女",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733760966666407936/1776187077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 637,
+          "like_count": 617,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 167
+        },
+        "url": "",
+        "username": "ivanov80_i96326",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

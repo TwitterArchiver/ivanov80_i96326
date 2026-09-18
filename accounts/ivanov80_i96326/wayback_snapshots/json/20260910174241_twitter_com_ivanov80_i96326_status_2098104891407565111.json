@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733760966666407936",
+    "conversation_id": "2098096297219899683",
+    "created_at": "2026-09-10T17:42:41.000Z",
+    "display_text_range": [
+      16,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T18:42:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098104891407565111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1845041900195282948",
+          "start": 0,
+          "username": "bernadine18107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098104891407565111",
+    "in_reply_to_user_id": "1845041900195282948",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098096297219899683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bernadine18107 不要啊给我，，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098096265913634816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR3vcApbEAAO9Jk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2098096265947217920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR3vcAxbgAAJQCP.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2098096265926197248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR3vcAsawAAtqKE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733760966666407936",
+        "conversation_id": "2098096297219899683",
+        "created_at": "2026-09-10T17:42:41.000Z",
+        "display_text_range": [
+          16,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T18:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098104891407565111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845041900195282948",
+              "start": 0,
+              "username": "bernadine18107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098104891407565111",
+        "in_reply_to_user_id": "1845041900195282948",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098096297219899683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bernadine18107 不要啊给我，，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098096265913634816",
+            "3_2098096265947217920",
+            "3_2098096265926197248"
+          ]
+        },
+        "author_id": "1845041900195282948",
+        "conversation_id": "2098096297219899683",
+        "created_at": "2026-09-10T17:08:32.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T18:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098096297219899683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AfjjB6q2fa",
+              "end": 72,
+              "expanded_url": "https://x.com/bernadine18107/status/2098096297219899683/photo/1",
+              "media_key": "3_2098096265913634816",
+              "start": 49,
+              "url": "https://t.co/AfjjB6q2fa"
+            },
+            {
+              "display_url": "pic.x.com/AfjjB6q2fa",
+              "end": 72,
+              "expanded_url": "https://x.com/bernadine18107/status/2098096297219899683/photo/1",
+              "media_key": "3_2098096265947217920",
+              "start": 49,
+              "url": "https://t.co/AfjjB6q2fa"
+            },
+            {
+              "display_url": "pic.x.com/AfjjB6q2fa",
+              "end": 72,
+              "expanded_url": "https://x.com/bernadine18107/status/2098096297219899683/photo/1",
+              "media_key": "3_2098096265926197248",
+              "start": 49,
+              "url": "https://t.co/AfjjB6q2fa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098096297219899683",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098096265913634816"
+          },
+          {
+            "media_key": "3_2098096265947217920"
+          },
+          {
+            "media_key": "3_2098096265926197248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 71,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "“姐姐你饿吗？\n“还好😅\n“妹妹我给你煮宵夜吧！！\n“好哎！！\n姐姐把初音给烹饪了！！(≧▽≦) https://t.co/AfjjB6q2fa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "172:-(49kg 不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2098104891407565111",
+        "name": "川長乙女",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733760966666407936/1776187077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 642,
+          "like_count": 628,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 172
+        },
+        "url": "",
+        "username": "ivanov80_i96326",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-12T10:00:55.000Z",
+        "description": "04年出厂的药娘👀 ｜在属于自己的轨道安静运行💗｜想做的事情有很多很多我会一件件实现❤️‍🩹｜梦想是SRS成为有阴道瓣的女孩子🤔｜共情➕重度依赖｜@Fitzgerald10184 小号/聊天戳👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "Fitzgerald10184"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Qiu0091",
+                "end": 23,
+                "expanded_url": "https://t.me/Qiu0091",
+                "start": 0,
+                "url": "https://t.co/nUqWCJu4Gq"
+              }
+            ]
+          }
+        },
+        "id": "1845041900195282948",
+        "is_identity_verified": false,
+        "location": "生命独特的坐标",
+        "most_recent_tweet_id": "2098096297219899683",
+        "name": "Niqiu-妮湫（充满希望版）🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2029572914392224148",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1845041900195282948/1732972152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943944034050813952/okWv5JY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5046,
+          "following_count": 783,
+          "like_count": 1902,
+          "listed_count": 17,
+          "media_count": 143,
+          "tweet_count": 734
+        },
+        "url": "https://t.co/nUqWCJu4Gq",
+        "username": "bernadine18107",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
