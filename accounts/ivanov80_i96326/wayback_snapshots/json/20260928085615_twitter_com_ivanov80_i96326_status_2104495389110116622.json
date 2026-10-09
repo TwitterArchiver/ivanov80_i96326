@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733760966666407936",
+    "conversation_id": "2100177851492549110",
+    "created_at": "2026-09-28T08:56:15.000Z",
+    "display_text_range": [
+      10,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T09:56:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104495389110116622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1819721615569195008",
+          "start": 0,
+          "username": "Mag1ceye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104495389110116622",
+    "in_reply_to_user_id": "1819721615569195008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103862982610653587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mag1ceye 谢谢你呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733760966666407936",
+        "conversation_id": "2100177851492549110",
+        "created_at": "2026-09-28T08:56:15.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T09:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104495389110116622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1819721615569195008",
+              "start": 0,
+              "username": "Mag1ceye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104495389110116622",
+        "in_reply_to_user_id": "1819721615569195008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103862982610653587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mag1ceye 谢谢你呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819721615569195008",
+        "conversation_id": "2100177851492549110",
+        "created_at": "2026-09-26T15:03:17.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T16:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103862982610653587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1733760966666407936",
+              "start": 0,
+              "username": "ivanov80_i96326"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103862982610653587",
+        "in_reply_to_user_id": "1733760966666407936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100177851492549110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ivanov80_i96326 身材好好"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "172:-(49kg 不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2104495389110116622",
+        "name": "川長乙女",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733760966666407936/1776187077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 654,
+          "like_count": 658,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 191
+        },
+        "url": "",
+        "username": "ivanov80_i96326",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-03T13:07:05.000Z",
+        "description": "妈妈，找对象好难… \n\n没钱吃糖在此接绿陪或半绿",
+        "id": "1819721615569195008",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2104492611558105475",
+        "name": "🐟魚🍥🏳️‍⚧️💨",
+        "pinned_tweet_id": "2102794195593564486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1819721615569195008/1790087905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103672901975363584/qxuSKmkD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 548,
+          "like_count": 4579,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1297
+        },
+        "url": "",
+        "username": "Mag1ceye",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

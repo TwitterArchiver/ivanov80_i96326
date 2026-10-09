@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101973481315594240"
+      ]
+    },
+    "author_id": "1733760966666407936",
+    "conversation_id": "2101973500617801889",
+    "created_at": "2026-09-21T09:55:09.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T10:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101973500617801889"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 29,
+          "tag": "药娘"
+        },
+        {
+          "end": 37,
+          "start": 33,
+          "tag": "HRT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i7DwMvp0nH",
+          "end": 61,
+          "expanded_url": "https://x.com/ivanov80_i96326/status/2101973500617801889/photo/1",
+          "media_key": "3_2101973481315594240",
+          "start": 38,
+          "url": "https://t.co/i7DwMvp0nH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101973500617801889",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101973481315594240"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "姐姐送的中秋月饼（字丑勿喷）\n有多少小药娘喜欢这盒月饼呀\n#药娘 #HRT https://t.co/i7DwMvp0nH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101973481315594240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSu1vpkbcAAT1_S.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101973481315594240"
+          ]
+        },
+        "author_id": "1733760966666407936",
+        "conversation_id": "2101973500617801889",
+        "created_at": "2026-09-21T09:55:09.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T10:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101973500617801889"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "药娘"
+            },
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "HRT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i7DwMvp0nH",
+              "end": 61,
+              "expanded_url": "https://x.com/ivanov80_i96326/status/2101973500617801889/photo/1",
+              "media_key": "3_2101973481315594240",
+              "start": 38,
+              "url": "https://t.co/i7DwMvp0nH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101973500617801889",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101973481315594240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "姐姐送的中秋月饼（字丑勿喷）\n有多少小药娘喜欢这盒月饼呀\n#药娘 #HRT https://t.co/i7DwMvp0nH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "172:-(49kg 不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2101973500617801889",
+        "name": "川長乙女",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733760966666407936/1776187077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 650,
+          "like_count": 639,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 185
+        },
+        "url": "",
+        "username": "ivanov80_i96326",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

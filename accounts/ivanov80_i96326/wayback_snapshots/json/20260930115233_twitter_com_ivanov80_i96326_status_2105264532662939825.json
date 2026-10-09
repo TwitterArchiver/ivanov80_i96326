@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2105196387919187969"
+      ],
+      "media_source_tweet_id": [
+        "2105196563265949949"
+      ]
+    },
+    "author_id": "1733760966666407936",
+    "conversation_id": "2105264532662939825",
+    "created_at": "2026-09-30T11:52:33.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T12:52:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105264532662939825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1366980932360544256",
+          "start": 3,
+          "username": "maolaoshi006"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KkMGzf0cV3",
+          "end": 65,
+          "expanded_url": "https://x.com/maolaoshi006/status/2105196563265949949/video/1",
+          "media_key": "13_2105196387919187969",
+          "start": 42,
+          "url": "https://t.co/KkMGzf0cV3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105264532662939825",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2105196387919187969"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105196563265949949",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maolaoshi006: 继续更新被单主超的作战记录哦~\n欢迎来找我玩哦 https://t.co/KkMGzf0cV3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30307,
+        "height": 720,
+        "media_key": "13_2105196387919187969",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2105196387919187969/img/jgHM7iOjfClLaear.jpg",
+        "public_metrics": {
+          "view_count": 1068
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105196387919187969/vid/avc1/480x270/KNUG-pflTWgqF0Qa.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105196387919187969/vid/avc1/640x360/RRJOVgamfx_f-tzN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105196387919187969/vid/avc1/1280x720/4fsyNMq9c6d8vnYQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2105196387919187969/pl/_IqDTP3B3ftFD8CU.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105196387919187969"
+          ],
+          "media_source_tweet_id": [
+            "2105196563265949949"
+          ]
+        },
+        "author_id": "1733760966666407936",
+        "conversation_id": "2105264532662939825",
+        "created_at": "2026-09-30T11:52:33.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T12:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105264532662939825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1366980932360544256",
+              "start": 3,
+              "username": "maolaoshi006"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KkMGzf0cV3",
+              "end": 65,
+              "expanded_url": "https://x.com/maolaoshi006/status/2105196563265949949/video/1",
+              "media_key": "13_2105196387919187969",
+              "start": 42,
+              "url": "https://t.co/KkMGzf0cV3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105264532662939825",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2105196387919187969"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105196563265949949",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maolaoshi006: 继续更新被单主超的作战记录哦~\n欢迎来找我玩哦 https://t.co/KkMGzf0cV3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105196387919187969"
+          ]
+        },
+        "author_id": "1366980932360544256",
+        "conversation_id": "2105196563265949949",
+        "created_at": "2026-09-30T07:22:28.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T08:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105196563265949949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KkMGzf0cV3",
+              "end": 47,
+              "expanded_url": "https://x.com/maolaoshi006/status/2105196563265949949/video/1",
+              "media_key": "13_2105196387919187969",
+              "start": 24,
+              "url": "https://t.co/KkMGzf0cV3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105196563265949949",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2105196387919187969"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 2428,
+          "like_count": 137,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "继续更新被单主超的作战记录哦~\n欢迎来找我玩哦 https://t.co/KkMGzf0cV3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-10T08:10:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "172:-(49kg 不近视⚠️暴躁！无厘头！爱骂人！慢热！oc人！⚠️纸性恋（同类fo）跨性别🍬🍥",
+        "id": "1733760966666407936",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2105264532662939825",
+        "name": "川長乙女",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733760966666407936/1776187077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102794005848064/k9aTvUmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 665,
+          "like_count": 673,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 197
+        },
+        "url": "",
+        "username": "ivanov80_i96326",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-03T05:17:37.000Z",
+        "description": "重生……不违反X规则\n坐标江浙沪哦。 不卖视频图包纯做爱 173/65kg。 攒钱版。含糖🍥TS 极度性瘾 受虐癖。喜欢可做爱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yizhimaobohe002",
+                "end": 23,
+                "expanded_url": "https://t.me/yizhimaobohe002",
+                "start": 0,
+                "url": "https://t.co/IW2S2QTK6q"
+              }
+            ]
+          }
+        },
+        "id": "1366980932360544256",
+        "is_identity_verified": false,
+        "location": "🧵下🚪66  😊聊天群↓",
+        "most_recent_tweet_id": "2105221790507438217",
+        "name": "猫薄荷TS（互推）",
+        "pinned_tweet_id": "2102685969195692288",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1366980932360544256/1790154013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102684449330876416/o03i2v5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8459,
+          "following_count": 54,
+          "like_count": 1106,
+          "listed_count": 16,
+          "media_count": 9,
+          "tweet_count": 263
+        },
+        "url": "https://t.co/IW2S2QTK6q",
+        "username": "maolaoshi006",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
